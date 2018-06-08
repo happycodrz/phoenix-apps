@@ -1,0 +1,5 @@
+
+https://github.com/instedd/aida [recurrence, genservers] (Artificially Intelligent Digital Assistant)
+https://github.com/instedd/ask  [genservers, etc] (InSTEDD Ask)
+
+
