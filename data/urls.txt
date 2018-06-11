@@ -1,5 +1,11 @@
-
 https://github.com/instedd/aida [recurrence, genservers] (Artificially Intelligent Digital Assistant)
-https://github.com/instedd/ask  [genservers, etc] (InSTEDD Ask)
-
-
+https://github.com/instedd/ask  [genservers] (InSTEDD Ask)
+https://github.com/instedd/active-monitoring [coherence] (Active Monitoring)
+https://github.com/strattadb/margaret [umbrella]
+https://github.com/dwyl/bestevidence []
+https://github.com/mirego/accent []
+https://github.com/levelhq/level []
+https://github.com/strattadb/margaret []
+https://github.com/digitalnatives/course_planner []
+https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
+https://github.com/pcorey/inject_detect [eventsourcing, cqrs]]
