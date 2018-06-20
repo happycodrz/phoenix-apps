@@ -9,8 +9,6 @@ https://github.com/strattadb/margaret []
 https://github.com/digitalnatives/course_planner []
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
-
 https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration]
-
-
 https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub [websockets, genservers]
+https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets]
