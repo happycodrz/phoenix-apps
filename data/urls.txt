@@ -17,3 +17,4 @@ https://github.com/statuspal/statuspal [coherence, saas]
 https://github.com/vutuv/vutuv [realworld, saas]
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
 https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
+https://github.com/kenforthewin/mentat [chat, security] (scalable group chat with tags and pretty good privacy.)
