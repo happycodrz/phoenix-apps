@@ -1,10 +1,10 @@
 https://github.com/instedd/aida [recurrence, genservers] (Artificially Intelligent Digital Assistant)
 https://github.com/instedd/ask  [genservers] (InSTEDD Ask)
 https://github.com/instedd/active-monitoring [coherence] (Active Monitoring)
-https://github.com/strattadb/margaret [umbrella]
+https://github.com/strattadb/margaret [umbrella, graphql]
 https://github.com/dwyl/bestevidence []
 https://github.com/mirego/accent []
-https://github.com/levelhq/level []
+https://github.com/levelhq/level [graphql]
 https://github.com/strattadb/margaret []
 https://github.com/digitalnatives/course_planner []
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
@@ -14,3 +14,5 @@ https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub [websockets,
 https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets]
 https://github.com/mgwidmann/slack_coder [github]
 https://github.com/statuspal/statuspal [coherence, saas]
+https://github.com/vutuv/vutuv [realworld, saas]
+https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
