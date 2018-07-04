@@ -18,3 +18,24 @@ https://github.com/vutuv/vutuv [realworld, saas]
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
 https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
 https://github.com/kenforthewin/mentat [chat, security] (scalable group chat with tags and pretty good privacy.)
+https://github.com/gitcoinco/codefund [advertising, saas ]
+https://github.com/emcasa/backend [realworld, housing, elasticsearch]
+https://github.com/etalab/transport-site [cqrs]
+https://github.com/freshcom/freshcom-api [ecommerce]
+https://github.com/aviabird/snitch [ecommerce]
+https://github.com/hexpm/hexpm [api, realworld]
+https://github.com/LittleKidogo/spender [api]
+https://github.com/evercam/evercam-server [api]
+https://github.com/straw-hat-team/straw_hat_review [ecto]
+https://github.com/acconrad/peergym [realworld]
+https://github.com/AlloyCI/alloy_ci [ci, realworld]
+https://github.com/cruessler/lafamiglia [gameserver, game
+https://github.com/edance/squeeze [api]]
+https://github.com/almightycouch/gitgud [git]
+https://github.com/GBH/loaded.bike []
+https://github.com/audioslides/audioslides.io []
+https://github.com/valo/melodica-inventory []
+https://github.com/EdgeCommander/edge-commander [] (Device Management & Monitoring Application )
+https://github.com/dreamingechoes/retrospectivex [] (Phoenix application to create retrospective boards.)
+https://github.com/danbruder/whiteboard [] (Multi-user real time whiteboard)
+https://github.com/boilercoding/crm [] (Contact Management made with Elixir )
