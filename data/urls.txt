@@ -40,5 +40,5 @@ https://github.com/straw-hat-team/straw_hat_review [ecto]
 https://github.com/thechangelog/changelog.com [pjax, realworld]
 https://github.com/valo/melodica-inventory []
 https://github.com/vutuv/vutuv [realworld, saas]
-https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub [websockets, genservers]
+https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
