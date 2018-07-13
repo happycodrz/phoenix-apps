@@ -24,6 +24,7 @@ defmodule Updater.DataParser do
     [tags_string, description]  = tags_and_description |> String.split("]",  parts: 2)
     tags = tags_string |> String.replace("]", "") |> String.replace(" ", "") |> String.split(",") |> Enum.reject(fn(x)-> x == "" end) |> Enum.sort
     description = description |> String.trim()
+    url = url |> String.trim()
     {url, tags, description}
   end
 end
