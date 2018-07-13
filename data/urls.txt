@@ -43,7 +43,6 @@ https://github.com/strattadb/margaret [umbrella, graphql]
 https://github.com/straw-hat-team/straw_hat_review [ecto]
 https://github.com/thechangelog/changelog.com [pjax, realworld]
 https://github.com/thoughtbot/constable [pjax] Better company announcements
-https://github.com/valo/melodica-inventory []
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
 https://github.com/vutuv/vutuv [realworld, saas]
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
