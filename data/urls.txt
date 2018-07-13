@@ -8,6 +8,7 @@ https://github.com/boilercoding/crm [] Contact Management made with Elixir
 https://github.com/cerclecrm/cercle [crm, realworld]
 https://github.com/code-corps/code-corps-api [realworld]
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop]
+https://github.com/dailydrip/firestorm [forum, elm]
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard
 https://github.com/digitalnatives/course_planner [quality:5, realworld] An application to manage educational courses
 https://github.com/dreamingechoes/retrospectivex [] Phoenix application to create retrospective boards.
