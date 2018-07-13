@@ -36,10 +36,12 @@ https://github.com/mirego/accent []
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
 https://github.com/operable/cog  [chatbot, realworld]
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
+https://github.com/sergiotapia/magnetissimo [crawler]
 https://github.com/statuspal/statuspal [coherence, saas]
 https://github.com/strattadb/margaret [umbrella, graphql]
 https://github.com/straw-hat-team/straw_hat_review [ecto]
 https://github.com/thechangelog/changelog.com [pjax, realworld]
+https://github.com/thoughtbot/constable [pjax] Better company announcements
 https://github.com/valo/melodica-inventory []
 https://github.com/vutuv/vutuv [realworld, saas]
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
