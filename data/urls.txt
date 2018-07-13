@@ -7,7 +7,7 @@ https://github.com/aviabird/snitch [ecommerce]
 https://github.com/boilercoding/crm [] Contact Management made with Elixir
 https://github.com/cerclecrm/cercle [crm, realworld]
 https://github.com/code-corps/code-corps-api [realworld]
-https://github.com/coderplanets/coderplanets_server [realworld] backend of coderplanets.com https://www.coderplanets.com
+https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop]
 https://github.com/dailydrip/firestorm [forum, elm]
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard
@@ -16,6 +16,7 @@ https://github.com/dreamingechoes/retrospectivex [] Phoenix application to creat
 https://github.com/dwyl/bestevidence []
 https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration]
 https://github.com/edance/squeeze [api]
+https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
 https://github.com/emcasa/backend [realworld, housing, elasticsearch]
 https://github.com/etalab/transport-site [cqrs]
