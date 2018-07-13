@@ -5,7 +5,7 @@ defmodule Updater do
     cwd = System.cwd()
     try do
       File.cd("../")
-      data |> Parallel.run(20, fn({url, tags})-> update(url) end)
+      data |> Parallel.run(20, fn({url, _tags, _description})-> update(url) end)
     after
       File.cd(cwd)
     end

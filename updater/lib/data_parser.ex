@@ -6,6 +6,8 @@ defmodule Updater.DataParser do
   def parse(file) do
     File.read!(file)
     |> String.split("\n")
+    |> Enum.map(&String.trim/1)
+    |> Enum.reject(fn(x)-> x == "" end)
     |> Enum.map(&parse_line/1)
   end
 
