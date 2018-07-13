@@ -1,41 +1,41 @@
-https://github.com/instedd/aida [recurrence, genservers] (Artificially Intelligent Digital Assistant)
-https://github.com/instedd/ask  [genservers] (InSTEDD Ask)
-https://github.com/instedd/active-monitoring [coherence] (Active Monitoring)
-https://github.com/strattadb/margaret [umbrella, graphql]
-https://github.com/dwyl/bestevidence []
-https://github.com/mirego/accent []
-https://github.com/levelhq/level [graphql]
-https://github.com/strattadb/margaret []
-https://github.com/digitalnatives/course_planner []
-https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
-https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
-https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration]
-https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub [websockets, genservers]
-https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets]
-https://github.com/mgwidmann/slack_coder [github]
-https://github.com/statuspal/statuspal [coherence, saas]
-https://github.com/vutuv/vutuv [realworld, saas]
-https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
 https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
-https://github.com/kenforthewin/mentat [chat, security] (scalable group chat with tags and pretty good privacy.)
-https://github.com/gitcoinco/codefund [advertising, saas ]
-https://github.com/emcasa/backend [realworld, housing, elasticsearch]
-https://github.com/etalab/transport-site [cqrs]
-https://github.com/freshcom/freshcom-api [ecommerce]
-https://github.com/aviabird/snitch [ecommerce]
-https://github.com/hexpm/hexpm [api, realworld]
-https://github.com/LittleKidogo/spender [api]
-https://github.com/evercam/evercam-server [api]
-https://github.com/straw-hat-team/straw_hat_review [ecto]
 https://github.com/acconrad/peergym [realworld]
 https://github.com/AlloyCI/alloy_ci [ci, realworld]
-https://github.com/cruessler/lafamiglia [gameserver, game
-https://github.com/edance/squeeze [api]]
 https://github.com/almightycouch/gitgud [git]
-https://github.com/GBH/loaded.bike []
 https://github.com/audioslides/audioslides.io []
-https://github.com/valo/melodica-inventory []
-https://github.com/EdgeCommander/edge-commander [] (Device Management & Monitoring Application )
-https://github.com/dreamingechoes/retrospectivex [] (Phoenix application to create retrospective boards.)
-https://github.com/danbruder/whiteboard [] (Multi-user real time whiteboard)
+https://github.com/aviabird/snitch [ecommerce]
 https://github.com/boilercoding/crm [] (Contact Management made with Elixir )
+https://github.com/cruessler/lafamiglia [gameserver, game
+https://github.com/danbruder/whiteboard [] (Multi-user real time whiteboard)
+https://github.com/digitalnatives/course_planner []
+https://github.com/dreamingechoes/retrospectivex [] (Phoenix application to create retrospective boards.)
+https://github.com/dwyl/bestevidence []
+https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration]
+https://github.com/edance/squeeze [api]]
+https://github.com/EdgeCommander/edge-commander [] (Device Management & Monitoring Application )
+https://github.com/emcasa/backend [realworld, housing, elasticsearch]
+https://github.com/etalab/transport-site [cqrs]
+https://github.com/evercam/evercam-server [api]
+https://github.com/freshcom/freshcom-api [ecommerce]
+https://github.com/GBH/loaded.bike []
+https://github.com/gitcoinco/codefund [advertising, saas ]
+https://github.com/hexpm/hexpm [api, realworld]
+https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets]
+https://github.com/instedd/active-monitoring [coherence] (Active Monitoring)
+https://github.com/instedd/aida [recurrence, genservers] (Artificially Intelligent Digital Assistant)
+https://github.com/instedd/ask  [genservers] (InSTEDD Ask)
+https://github.com/kenforthewin/mentat [chat, security] (scalable group chat with tags and pretty good privacy.)
+https://github.com/levelhq/level [graphql]
+https://github.com/LittleKidogo/spender [api]
+https://github.com/mgwidmann/slack_coder [github]
+https://github.com/mirego/accent []
+https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
+https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
+https://github.com/statuspal/statuspal [coherence, saas]
+https://github.com/strattadb/margaret []
+https://github.com/strattadb/margaret [umbrella, graphql]
+https://github.com/straw-hat-team/straw_hat_review [ecto]
+https://github.com/valo/melodica-inventory []
+https://github.com/vutuv/vutuv [realworld, saas]
+https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub [websockets, genservers]
+https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
