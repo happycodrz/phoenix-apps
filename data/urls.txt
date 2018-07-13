@@ -4,6 +4,8 @@ https://github.com/AlloyCI/alloy_ci [ci, realworld]
 https://github.com/almightycouch/gitgud [git]
 https://github.com/audioslides/audioslides.io []
 https://github.com/aviabird/snitch [ecommerce]
+https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league
+https://github.com/barsoom/review [] A tool for commit-by-commit code review of repositories on GitHub
 https://github.com/boilercoding/crm [] Contact Management made with Elixir
 https://github.com/cerclecrm/cercle [crm, realworld]
 https://github.com/code-corps/code-corps-api [realworld]
@@ -20,7 +22,9 @@ https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integr
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
 https://github.com/emcasa/backend [realworld, housing, elasticsearch]
 https://github.com/etalab/transport-site [cqrs]
+https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
 https://github.com/evercam/evercam-server [api]
+https://github.com/fremantle-capital/tai [bot, trading, genservers] A trading toolkit built with Elixir that runs on the Erlang virtual machine
 https://github.com/freshcom/freshcom-api [ecommerce, big, realworld]
 https://github.com/GBH/loaded.bike []
 https://github.com/gitcoinco/codefund [advertising, saas, realworld]
@@ -35,6 +39,7 @@ https://github.com/levelhq/level [graphql]
 https://github.com/LittleKidogo/spender [api]
 https://github.com/mgwidmann/slack_coder [github]
 https://github.com/mirego/accent []
+https://github.com/mozilla/reticulum [] Phoenix web server for Social MR
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
 https://github.com/operable/cog  [chatbot, realworld]
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
