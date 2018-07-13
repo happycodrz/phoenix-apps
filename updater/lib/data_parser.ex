@@ -1,6 +1,6 @@
 defmodule Updater.DataParser do
   def parse do
-    parse("../data/withdata.txt")
+    parse("../data/urls.txt")
   end
 
   def parse(file) do
@@ -20,7 +20,7 @@ defmodule Updater.DataParser do
     [url, tags_and_description] = line |> String.split(" [")
 
     [tags_string, description]  = tags_and_description |> String.split("]",  parts: 2)
-    tags = tags_string |> String.replace("]", "") |> String.replace(" ", "") |> String.split(",") |> Enum.reject(fn(x)-> x == "" end)
+    tags = tags_string |> String.replace("]", "") |> String.replace(" ", "") |> String.split(",") |> Enum.reject(fn(x)-> x == "" end) |> Enum.sort
     description = description |> String.trim()
     {url, tags, description}
   end

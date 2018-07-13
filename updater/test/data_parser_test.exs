@@ -20,7 +20,7 @@ defmodule Updater.DataParserTest do
 
     test "with tags and no description" do
       res = DataParser.parse_line("https://github.com/boilercoding/crm [crm, saas, nice stuff]")
-      assert res == {"https://github.com/boilercoding/crm", ["crm", "saas", "nicestuff"], ""}
+      assert res == {"https://github.com/boilercoding/crm", ["crm", "nicestuff", "saas"], ""}
     end
   end
 end
