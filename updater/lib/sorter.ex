@@ -1,6 +1,6 @@
 defmodule Updater.Sorter do
   def sort() do
-    sort("../data/withdata.txt")
+    sort("../data/urls.txt")
   end
 
   def sort(file) do
