@@ -1,55 +1,54 @@
 https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
-https://github.com/acconrad/peergym [realworld]
-https://github.com/AlloyCI/alloy_ci [ci, realworld]
-https://github.com/almightycouch/gitgud [git]
-https://github.com/audioslides/audioslides.io []
-https://github.com/aviabird/snitch [ecommerce]
-https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league
-https://github.com/barsoom/review [] A tool for commit-by-commit code review of repositories on GitHub
-https://github.com/boilercoding/crm [] Contact Management made with Elixir
-https://github.com/cerclecrm/cercle [crm, realworld]
-https://github.com/code-corps/code-corps-api [realworld]
+https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. https://peergym.herokuapp.com/
+https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
+https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
+https://github.com/audioslides/audioslides.io [] Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. https://audioslides.io/
+https://github.com/aviabird/snitch [ecommerce] E-Commerce re-invented in Elixir
+https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
+https://github.com/barsoom/review [] A tool for commit-by-commit code review of repositories on GitHub https://review-on-review.herokuapp.co…
+https://github.com/boilercoding/crm [] Contact Management made with Elixir https://elixir-phoenix-crm.herokuapp.com
+https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs http://get.cercle.co
+https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
-https://github.com/cruessler/lafamiglia [gameserver, game, eventloop]
-https://github.com/dailydrip/firestorm [forum, elm]
-https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard
+https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
+https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. http://www.firestormforum.org
+https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
 https://github.com/digitalnatives/course_planner [quality:5, realworld] An application to manage educational courses
 https://github.com/dreamingechoes/retrospectivex [] Phoenix application to create retrospective boards.
-https://github.com/dwyl/bestevidence []
-https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration]
-https://github.com/edance/squeeze [api]
+https://github.com/dwyl/bestevidence [] City, University of London BestEvidence app http://bestevidence.info/
+https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration] 🔐 A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types
+https://github.com/edance/squeeze [api] 🍊🏃 Track Runs and Workouts with Strava
 https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
-https://github.com/emcasa/backend [realworld, housing, elasticsearch]
-https://github.com/etalab/transport-site [cqrs]
+https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
-https://github.com/evercam/evercam-server [api]
+https://github.com/evercam/evercam-server [api] Cloud CCTV Server (Phoenix) https://media.evercam.io/
 https://github.com/fremantle-capital/tai [bot, trading, genservers] A trading toolkit built with Elixir that runs on the Erlang virtual machine
-https://github.com/freshcom/freshcom-api [ecommerce, big, realworld]
-https://github.com/GBH/loaded.bike []
-https://github.com/gitcoinco/codefund [advertising, saas, realworld]
-https://github.com/hashrocket/tilex [realworld, pjax]
-https://github.com/hexpm/hexpm [api, realworld, security] - the backend for hex.pm
-https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets]
+https://github.com/freshcom/freshcom-api [ecommerce, big, realworld] Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix https://docs.freshcom.io/
+https://github.com/GBH/loaded.bike [] Phoenix/Elixir web app for exploring and sharing bicycle touring routes http://loaded.bike
+https://github.com/gitcoinco/codefund [advertising, saas, realworld] CodeFund.io (formerly Code Sponsor) https://codefund.io
+https://github.com/hashrocket/tilex [realworld, pjax] Today I Learned in Elixir https://til.hashrocket.com
+https://github.com/hexpm/hexpm [api, realworld, security] - API server and website for Hex https://hex.pm
+https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets] A Team Collaboration Suite
 https://github.com/instedd/active-monitoring [coherence] Active Monitoring
 https://github.com/instedd/aida [recurrence, genservers] Artificially Intelligent Digital Assistant
 https://github.com/instedd/ask  [genservers] InSTEDD Ask
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
-https://github.com/levelhq/level [graphql]
-https://github.com/LittleKidogo/spender [api]
-https://github.com/mgwidmann/slack_coder [github]
-https://github.com/mirego/accent []
+https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
+https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our spending
+https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
+https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
 https://github.com/mozilla/reticulum [] Phoenix web server for Social MR
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
-https://github.com/operable/cog  [chatbot, realworld]
+https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
-https://github.com/sergiotapia/magnetissimo [crawler]
-https://github.com/statuspal/statuspal [coherence, saas]
-https://github.com/strattadb/margaret [umbrella, graphql]
-https://github.com/straw-hat-team/straw_hat_review [ecto]
-https://github.com/thechangelog/changelog.com [pjax, realworld]
-https://github.com/thoughtbot/constable [pjax] Better company announcements
+https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
+https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you communicate your web apps/services status 📡 https://statuspal.io
+https://github.com/strattadb/margaret [umbrella, graphql] 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
+https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
+https://github.com/thechangelog/changelog.com [pjax, realworld] Hacker to the 💚 https://changelog.com/posts/changelog…
+https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
-https://github.com/vutuv/vutuv [realworld, saas]
+https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
-https://gitlab.com/code-stats/code-stats [saas, realworld, redom]
+https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
