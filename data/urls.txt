@@ -1,4 +1,5 @@
 https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
+https://github.com/access-company/antikythera [paas, faas, realworld] Elixir framework to build your own in-house PaaS
 https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. https://peergym.herokuapp.com/
 https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
 https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
@@ -56,4 +57,3 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
-https://github.com/access-company/antikythera [paas, faas, realworld] Elixir framework to build your own in-house PaaS
