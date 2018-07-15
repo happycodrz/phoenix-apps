@@ -2,6 +2,7 @@ https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
 https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. https://peergym.herokuapp.com/
 https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
 https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
+https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
 https://github.com/audioslides/audioslides.io [] Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. https://audioslides.io/
 https://github.com/aviabird/snitch [ecommerce] E-Commerce re-invented in Elixir
 https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
@@ -38,8 +39,9 @@ https://github.com/levelhq/level [graphql] Distraction-free communication for so
 https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our spending
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
 https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
-https://github.com/mozilla/reticulum [] Phoenix web server for Social MR
+https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybrid game networking and web API server, focused on Social Mixed Reality)
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
+https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
