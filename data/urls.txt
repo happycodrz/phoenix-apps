@@ -43,6 +43,7 @@ https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud,
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
+https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
 https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you communicate your web apps/services status 📡 https://statuspal.io
 https://github.com/strattadb/margaret [umbrella, graphql] 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
 https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
