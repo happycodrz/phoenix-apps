@@ -44,6 +44,7 @@ https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud,
 https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
+https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
 https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
 https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you communicate your web apps/services status 📡 https://statuspal.io
@@ -55,4 +56,3 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
-https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
