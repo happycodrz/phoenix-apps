@@ -3,12 +3,15 @@ https://github.com/access-company/antikythera [paas, faas, realworld] Elixir fra
 https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. https://peergym.herokuapp.com/
 https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
 https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
+https://github.com/andersju/webbkoll [] An online tool that checks how a website is doing with regards to privacy.
 https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
 https://github.com/audioslides/audioslides.io [] Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. https://audioslides.io/
 https://github.com/aviabird/snitch [ecommerce] E-Commerce re-invented in Elixir
 https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/barsoom/review [] A tool for commit-by-commit code review of repositories on GitHub https://review-on-review.herokuapp.co…
 https://github.com/boilercoding/crm [] Contact Management made with Elixir https://elixir-phoenix-crm.herokuapp.com
+https://github.com/bors-ng/bors-ng [bot] 👁 A merge bot for GitHub Pull Requests https://bors.tech/
+https://github.com/BuddyGG/buddy_matching [] Somewhat generic player matching service built with Elixir and Phoenix https://www.buddy.gg
 https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs http://get.cercle.co
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
@@ -22,6 +25,7 @@ https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configurati
 https://github.com/edance/squeeze [api] 🍊🏃 Track Runs and Workouts with Strava
 https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
+https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming Elixir study group
 https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
 https://github.com/evercam/evercam-server [api] Cloud CCTV Server (Phoenix) https://media.evercam.io/
@@ -41,6 +45,7 @@ https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
 https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
 https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybrid game networking and web API server, focused on Social Mixed Reality)
+https://github.com/obudget/core [] Open Budget Core: An open source envelope budgeting platform https://api.openbudget.xyz/api
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
 https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
@@ -53,6 +58,7 @@ https://github.com/strattadb/margaret [umbrella, graphql] 👩‍🚀 🚀 A pub
 https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
 https://github.com/thechangelog/changelog.com [pjax, realworld] Hacker to the 💚 https://changelog.com/posts/changelog…
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
+https://github.com/UrbanCCD-UChicago/plenario2 [] The Future of Technical Debt
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
