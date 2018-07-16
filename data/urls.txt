@@ -43,6 +43,7 @@ https://github.com/instedd/active-monitoring [coherence] Active Monitoring
 https://github.com/instedd/aida [recurrence, genservers] Artificially Intelligent Digital Assistant
 https://github.com/instedd/ask  [genservers] InSTEDD Ask
 https://github.com/ironbay/kora [graphql, realtime, cqrs] Modern NoSQL + Graph database that facilitates real-time data syncing between online or offline devices and servers. Eliminates the need for API servers between database and client
+https://github.com/joaquimadraz/opensubs.io [] 💸 Track recurring bills and subscriptions
 https://github.com/johndavedecano/CoderJobs [size:2 quality:2] A job board application built using Elixir and Phoenix Framework.
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
