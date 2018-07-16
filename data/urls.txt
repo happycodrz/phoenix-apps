@@ -6,7 +6,7 @@ https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in E
 https://github.com/andersju/webbkoll [] An online tool that checks how a website is doing with regards to privacy.
 https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
 https://github.com/audioslides/audioslides.io [] Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. https://audioslides.io/
-https://github.com/aviabird/snitch [ecommerce] E-Commerce re-invented in Elixir
+https://github.com/aviabird/snitch [ecommerce, umbrella] E-Commerce re-invented in Elixir
 https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/barsoom/review [] A tool for commit-by-commit code review of repositories on GitHub https://review-on-review.herokuapp.co…
 https://github.com/boilercoding/crm [] Contact Management made with Elixir https://elixir-phoenix-crm.herokuapp.com
@@ -40,6 +40,7 @@ https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets
 https://github.com/instedd/active-monitoring [coherence] Active Monitoring
 https://github.com/instedd/aida [recurrence, genservers] Artificially Intelligent Digital Assistant
 https://github.com/instedd/ask  [genservers] InSTEDD Ask
+https://github.com/ironbay/kora [graphql, realtime, cqrs] Modern NoSQL + Graph database that facilitates real-time data syncing between online or offline devices and servers. Eliminates the need for API servers between database and client
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
 https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our spending
