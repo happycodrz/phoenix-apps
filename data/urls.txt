@@ -19,6 +19,7 @@ https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-ba
 https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. http://www.firestormforum.org
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
 https://github.com/digitalnatives/course_planner [quality:5, realworld] An application to manage educational courses
+https://github.com/dreamingechoes/diversity-in-tech [] Phoenix application to rate tech companies according to how diverse friendly they are.
 https://github.com/dreamingechoes/retrospectivex [] Phoenix application to create retrospective boards.
 https://github.com/dwyl/bestevidence [] City, University of London BestEvidence app http://bestevidence.info/
 https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration] 🔐 A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types
