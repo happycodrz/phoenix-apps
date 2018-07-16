@@ -65,6 +65,7 @@ https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you comm
 https://github.com/strattadb/margaret [umbrella, graphql] 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
 https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
 https://github.com/thechangelog/changelog.com [pjax, realworld] Hacker to the 💚 https://changelog.com/posts/changelog…
+https://github.com/thoughtbot/community  []  Community is an Elixir/Phoenix app that was designed primarily to run Raleigh Design. Feel free to fork it and use it for your own community!
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
 https://github.com/tuvistavie/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
 https://github.com/UrbanCCD-UChicago/plenario2 [] The Future of Technical Debt
