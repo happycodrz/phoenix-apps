@@ -15,6 +15,7 @@ https://github.com/BuddyGG/buddy_matching [] Somewhat generic player matching se
 https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs http://get.cercle.co
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
+https://github.com/crossfield/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
 https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. http://www.firestormforum.org
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
@@ -35,6 +36,7 @@ https://github.com/freshcom/freshcom-api [ecommerce, big, realworld] Freshcom AP
 https://github.com/GBH/loaded.bike [] Phoenix/Elixir web app for exploring and sharing bicycle touring routes http://loaded.bike
 https://github.com/gitcoinco/codefund [advertising, saas, realworld] CodeFund.io (formerly Code Sponsor) https://codefund.io
 https://github.com/hashrocket/tilex [realworld, pjax] Today I Learned in Elixir https://til.hashrocket.com
+https://github.com/healthlocker/healthlocker [realworld, size:5] Inspire and motivate people to stay well. https://www.healthlocker.uk
 https://github.com/hexpm/hexpm [api, realworld, security] - API server and website for Hex https://hex.pm
 https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets] A Team Collaboration Suite
 https://github.com/instedd/active-monitoring [coherence] Active Monitoring
@@ -48,19 +50,23 @@ https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
 https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
 https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybrid game networking and web API server, focused on Social Mixed Reality)
+https://github.com/Ninjarab/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
 https://github.com/obudget/core [] Open Budget Core: An open source envelope budgeting platform https://api.openbudget.xyz/api
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
 https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
+https://github.com/Prabandham/excms [cms] This is a tailored CMS application to fit to the needs of Larks.
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
+https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
 https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you communicate your web apps/services status 📡 https://statuspal.io
 https://github.com/strattadb/margaret [umbrella, graphql] 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
 https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
 https://github.com/thechangelog/changelog.com [pjax, realworld] Hacker to the 💚 https://changelog.com/posts/changelog…
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
+https://github.com/tuvistavie/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
 https://github.com/UrbanCCD-UChicago/plenario2 [] The Future of Technical Debt
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
