@@ -70,6 +70,7 @@ https://github.com/thoughtbot/community  []  Community is an Elixir/Phoenix app 
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
 https://github.com/tuvistavie/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
 https://github.com/UrbanCCD-UChicago/plenario2 [] The Future of Technical Debt
+https://github.com/usecanvas/api-v2 [realworld, realtime] This is the Canvas API, which provides an HTTP interface to Canvas resources, as well as event notifications over WebSockets
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
