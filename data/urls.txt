@@ -12,6 +12,7 @@ https://github.com/barsoom/review [] A tool for commit-by-commit code review of 
 https://github.com/boilercoding/crm [] Contact Management made with Elixir https://elixir-phoenix-crm.herokuapp.com
 https://github.com/bors-ng/bors-ng [bot] 👁 A merge bot for GitHub Pull Requests https://bors.tech/
 https://github.com/BuddyGG/buddy_matching [] Somewhat generic player matching service built with Elixir and Phoenix https://www.buddy.gg
+https://github.com/cancoin/bitcoin-voyager [] Websocket and REST Server for querying Libbitcoin Server
 https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs http://get.cercle.co
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
