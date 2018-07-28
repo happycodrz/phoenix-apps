@@ -29,6 +29,7 @@ https://github.com/edance/squeeze [api] 🍊🏃 Track Runs and Workouts with St
 https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
 https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming Elixir study group
+https://github.com/emadb/rovex [game, websockets] A multi mars rover implementation in Elixir. http://rovex.herokuapp.com
 https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
 https://github.com/evercam/evercam-server [api] Cloud CCTV Server (Phoenix) https://media.evercam.io/
