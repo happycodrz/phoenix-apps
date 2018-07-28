@@ -26,12 +26,13 @@ defmodule Updater.Crawler do
     }
   end
 
-  def generic_default_stats(_repo) do
+  def generic_default_stats(repo) do
     %{
-      description: "",
-      lastcommit: "",
-      commitscount: "",
-      stars: ""
+      repo: repo,
+      description: "---",
+      lastcommit: "---",
+      commitscount: 0,
+      stars: 0
     }
   end
 
