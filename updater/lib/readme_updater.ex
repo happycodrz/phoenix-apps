@@ -12,5 +12,6 @@ defmodule Updater.ReadmeUpdater do
     Updater.ReadmeHandler.replace_activity!(stats_collection)
     Updater.ReadmeHandler.replace_projects!(stats_collection)
     Updater.ReadmeHandler.replace_popularity!(stats_collection)
+    Updater.ReadmeHandler.replace_commitcount!(stats_collection)
   end
 end

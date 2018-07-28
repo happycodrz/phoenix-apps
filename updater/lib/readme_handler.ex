@@ -11,6 +11,12 @@ defmodule Updater.ReadmeHandler do
     File.write!("../Readme.md", new_content)
   end
 
+  def replace_commitcount!(projects) do
+    content = File.read!("../Readme.md")
+    new_content = replace_commitcount(projects, content)
+    File.write!("../Readme.md", new_content)
+  end
+
   def replace_popularity!(projects) do
     content = File.read!("../Readme.md")
     new_content = replace_popularity(projects, content)
@@ -23,6 +29,16 @@ defmodule Updater.ReadmeHandler do
     regexStart = "<!-- PROJECTS_LIST -->"
     regexEnd = "<!-- /PROJECTS_LIST -->"
     block = projects |> Enum.map(&Updater.MarktdownFormatter.project/1) |> Enum.join("\n")
+    block = regexStart <> "\n" <> block <> "\n" <> regexEnd
+    Regex.replace(pattern, content, block)
+  end
+
+  def replace_commitcount(projects, content) do
+    projects = Enum.sort_by(projects, fn(x)-> x.commitscount end) |> Enum.reverse()
+    pattern = Regex.compile!("(?s)<!-- COMMITCOUNT_LIST -->(.*)<!-- /COMMITCOUNT_LIST -->")
+    regexStart = "<!-- COMMITCOUNT_LIST -->"
+    regexEnd = "<!-- /COMMITCOUNT_LIST -->"
+    block = projects |> Enum.map(&Updater.MarktdownFormatter.commitcount/1) |> Enum.join("\n")
     block = regexStart <> "\n" <> block <> "\n" <> regexEnd
     Regex.replace(pattern, content, block)
   end
@@ -59,6 +75,12 @@ defmodule Updater.MarktdownFormatter do
     "- #{md_link(stats)} - #{stats.description} <br/> (#{stats.stars} stars / #{lastcommit_short(stats)} / #{
       stats.commitscount
     } commits )"
+  end
+
+  def commitcount(stats) do
+    "- #{md_link(stats)} - #{stats.description} <br/> (#{
+      stats.commitscount
+    } commits / #{stats.stars} stars / #{lastcommit_short(stats)} )"
   end
 
   def project(stats) do
