@@ -22,6 +22,7 @@ defmodule Updater.MixProject do
   defp deps do
     [
       {:cortex, "~> 0.5"},
+      {:flexi, "~> 0.3"},
       {:floki, "~> 0.20.0"},
       {:simplehttp, "~> 0.4.1"},
       {:mockery, "~> 2.2.0", runtime: false}
