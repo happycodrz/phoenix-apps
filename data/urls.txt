@@ -60,6 +60,7 @@ https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/Prabandham/excms [cms] This is a tailored CMS application to fit to the needs of Larks.
+https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
 https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
