@@ -1,21 +1,46 @@
 defmodule Updater.Crawler do
   alias Updater.Github
+
   def stats(repo) do
+    cond do
+      String.contains?(repo, "github.com") -> github_stats(repo)
+      true -> generic_default_stats(repo)
+    end
+  end
+
+  def github_stats(repo) do
     {:ok, response} = Github.get(repo)
 
+    body =
+      cond do
+        is_binary(response.body) -> response.body |> Floki.parse()
+        true -> response.body
+      end
+
     %{
-      description: description(response.body),
-      lastcommit: lastcommit(response.body),
-      commitscount: commitscount(response.body),
-      stars: stars(response.body)
+      repo: repo,
+      description: description(body),
+      lastcommit: lastcommit(body),
+      commitscount: commitscount(body),
+      stars: stars(body)
+    }
+  end
+
+  def generic_default_stats(_repo) do
+    %{
+      description: "",
+      lastcommit: "",
+      commitscount: "",
+      stars: ""
     }
   end
 
   def description(body) do
     body
-    |> Floki.find("meta")
-    |> Enum.find(&is_description/1)
-    |> extract_desc
+    |> Floki.find("head title")
+    |> Floki.text()
+    |> String.split(": ", parts: 2)
+    |> Enum.at(1)
   end
 
   def lastcommit(body) do
@@ -50,53 +75,25 @@ defmodule Updater.Crawler do
     lastcommit(doc.body)
   end
 
-  defp is_description(
-         {
-           "meta",
-           [
-             {"name", "description"},
-             {"content", "GitHub is " <> _}
-           ],
-           []
-         }
-       ),
-       do: false
-
-  defp is_description({"meta", [{"name", "description"}, {"content", _proj_with_desc}], []}) do
-    true
-  end
-
-  defp is_description(_), do: false
-
-  defp extract_desc({"meta", [{"name", "description"}, {"content", proj_with_desc}], []}) do
-    proj_with_desc |> String.split(" - ") |> Enum.at(1)
-  end
-
-  defp extract_desc(nil) do
-    "----"
-  end
-
-
-  defp commitscount(body) do
+  def commitscount(body) do
     body
     |> Floki.find(".numbers-summary .commits .num")
-    |> Floki.text
+    |> Floki.text()
     |> cleannumber_from_text
   end
 
-  defp stars(body) do
+  def stars(body) do
     body
     |> Floki.find(".social-count")
     |> Enum.at(1)
-    |> Floki.text
+    |> Floki.text()
     |> cleannumber_from_text
   end
 
   defp cleannumber_from_text(text) do
     text
     |> String.replace(",", "")
-    |> String.trim
-    |> String.to_integer
-
+    |> String.trim()
+    |> String.to_integer()
   end
 end
