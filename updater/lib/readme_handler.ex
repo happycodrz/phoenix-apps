@@ -50,7 +50,9 @@ end
 
 defmodule Updater.MarktdownFormatter do
   def activity(stats) do
-    "- #{md_link(stats)}: #{lastcommit_short(stats)}  <br/>  #{stats.description}"
+    "- #{md_link(stats)} - #{stats.description} <br/> ( #{lastcommit_short(stats)} / #{
+      stats.commitscount
+    } commits / #{stats.stars} stars )"
   end
 
   def popularity(stats) do
