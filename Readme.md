@@ -192,87 +192,87 @@ $ make update
 
 ### By Popularity
 <!-- POPULARITY_LIST -->
-- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo): 2162  <br/>  Web application that indexes all popular torrent sites, and saves it to the local database.
-- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com): 1411  <br/>  Hacker to the 💚
-- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server): 1251  <br/>  Web app for hosting asciicasts
-- [WallarooLabs/wallaroo](https://github.com/WallarooLabs/wallaroo): 1031  <br/>  Build and scale real-time data applications as easily as writing a Python script
-- [operable/cog](https://github.com/operable/cog): 846  <br/>  Bringing the power of the command line to chat
-- [dailydrip/firestorm](https://github.com/dailydrip/firestorm): 791  <br/>  An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
-- [levelhq/level](https://github.com/levelhq/level): 515  <br/>  Distraction-free communication for software teams
-- [hexpm/hexpm](https://github.com/hexpm/hexpm): 451  <br/>  API server and website for Hex
-- [evercam/evercam-server](https://github.com/evercam/evercam-server): 355  <br/>  Cloud CCTV Server (Phoenix)
-- [thoughtbot/constable](https://github.com/thoughtbot/constable): 348  <br/>  Better company announcements
-- [mirego/accent](https://github.com/mirego/accent): 322  <br/>  ▴ Open-source, self-hosted, developer-oriented translation tool
-- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng): 286  <br/>  👁 A merge bot for GitHub Pull Requests
-- [code-corps/code-corps-api](https://github.com/code-corps/code-corps-api): 216  <br/>  Elixir/Phoenix API for Code Corps.
-- [omisego/ewallet](https://github.com/omisego/ewallet): 202  <br/>  eWallet Backend for the OmiseGO SDKs.
-- [rrrene/elixirstatus-web](https://github.com/rrrene/elixirstatus-web): 198  <br/>  Community site for Elixir project/blog post/version updates
-- [cerclecrm/cercle](https://github.com/cerclecrm/cercle): 197  <br/>  Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs
-- [oestrich/ex_venture](https://github.com/oestrich/ex_venture): 190  <br/>  Multi-User Dungeon (MUD) server written in Elixir
-- [hashrocket/tilex](https://github.com/hashrocket/tilex): 188  <br/>  Today I Learned in Elixir
-- [AlloyCI/alloy_ci](https://github.com/AlloyCI/alloy_ci): 169  <br/>  Continuous Integration, Deployment, and Delivery coordinator, written in Elixir.
-- [vutuv/vutuv](https://github.com/vutuv/vutuv): 160  <br/>  vutuv is a social network service to host and share information about humans and organizations.
-- [almightycouch/gitgud](https://github.com/almightycouch/gitgud): 149  <br/>  GitHub clone entirely written in Elixir.
-- [usecanvas/api-v2](https://github.com/usecanvas/api-v2): 109  <br/>  
-- [rizafahmi/elixirjobs](https://github.com/rizafahmi/elixirjobs): 101  <br/>  Job portal for Alchemist
-- [statuspal/statuspal](https://github.com/statuspal/statuspal): 92  <br/>  Statuspal lets you communicate your web apps/services status 📡
-- [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api): 83  <br/>  Index page and integration layer for projects that related to Ukrainian Health Services government institution
-- [tuvistavie/opencov](https://github.com/tuvistavie/opencov): 76  <br/>  Open source code coverage history webapp
-- [andersju/webbkoll](https://github.com/andersju/webbkoll): 74  <br/>  An online tool that checks how a website is doing with regards to privacy.
-- [gitcoinco/codefund](https://github.com/gitcoinco/codefund): 68  <br/>  CodeFund.io (formerly Code Sponsor)
-- [BuddyGG/buddy_matching](https://github.com/BuddyGG/buddy_matching): 57  <br/>  Somewhat generic player matching service built with Elixir and Phoenix
-- [kenforthewin/mentat](https://github.com/kenforthewin/mentat): 52  <br/>  scalable group chat with tags and pretty good privacy.
-- [strattadb/margaret](https://github.com/strattadb/margaret): 48  <br/>  👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
-- [emcasa/backend](https://github.com/emcasa/backend): 43  <br/>  EmCasa Backend
-- [healthlocker/healthlocker](https://github.com/healthlocker/healthlocker): 41  <br/>  Inspire and motivate people to stay well.
-- [GBH/loaded.bike](https://github.com/GBH/loaded.bike): 36  <br/>  Phoenix/Elixir web app for exploring and sharing bicycle touring routes
-- [access-company/antikythera](https://github.com/access-company/antikythera): 34  <br/>  Elixir framework to build your own in-house PaaS
-- [santiment/sanbase2](https://github.com/santiment/sanbase2): 31  <br/>  The source code of the Sanbase application in Santiment LLC
-- [barsoom/review](https://github.com/barsoom/review): 24  <br/>  A tool for commit-by-commit code review of repositories on GitHub
-- [digitalnatives/course_planner](https://github.com/digitalnatives/course_planner): 23  <br/>  An application to manage educational courses
-- [freshcom/freshcom-api](https://github.com/freshcom/freshcom-api): 23  <br/>  Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix
-- [thoughtbot/community](https://github.com/thoughtbot/community): 20  <br/>  
-- [joaquimadraz/opensubs.io](https://github.com/joaquimadraz/opensubs.io): 19  <br/>  Track recurring bills and subscriptions
-- [mozilla/reticulum](https://github.com/mozilla/reticulum): 18  <br/>  Phoenix web server for Social MR
-- [johndavedecano/CoderJobs](https://github.com/johndavedecano/CoderJobs): 16  <br/>  A job board application built using Elixir and Phoenix Framework.
-- [aviabird/snitch](https://github.com/aviabird/snitch): 15  <br/>  E-Commerce re-invented in Elixir
-- [mgwidmann/slack_coder](https://github.com/mgwidmann/slack_coder): 14  <br/>  Slack Bot for watching your Github & CI builds
-- [ironbay/kora](https://github.com/ironbay/kora): 13  <br/>  Modern NoSQL + Graph database that facilitates real-time data syncing between online or offline devices and servers. Eliminates the need for API servers between database and client
-- [dwyl/phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example): 13  <br/>  A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types
-- [cancoin/bitcoin-voyager](https://github.com/cancoin/bitcoin-voyager): 12  <br/>  Websocket and REST Server for querying Libbitcoin Server
-- [crossfield/cx_leaderboard](https://github.com/crossfield/cx_leaderboard): 11  <br/>  Elixir library for fast, customizable leaderboards
-- [infinityoneframework/infinity_one](https://github.com/infinityoneframework/infinity_one): 11  <br/>  A Team Collaboration Suite
-- [fremantle-capital/tai](https://github.com/fremantle-capital/tai): 10  <br/>  A trading toolkit built with Elixir that runs on the Erlang virtual machine
-- [audioslides/audioslides.io](https://github.com/audioslides/audioslides.io): 9  <br/>  Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir.
-- [instedd/ask](https://github.com/instedd/ask): 9  <br/>  InSTEDD Ask
-- [Prabandham/excms](https://github.com/Prabandham/excms): 9  <br/>  This is a tailored CMS application to fit to the needs of Larks.
-- [dwyl/bestevidence](https://github.com/dwyl/bestevidence): 8  <br/>  City, University of London BestEvidence app
-- [pcorey/inject_detect](https://github.com/pcorey/inject_detect): 8  <br/>  
-- [ElixirSeattle/tanx](https://github.com/ElixirSeattle/tanx): 7  <br/>  Tank game created by the Programming Elixir study group
-- [source-academy/cadet](https://github.com/source-academy/cadet): 7  <br/>  
-- [valo/melodica-inventory](https://github.com/valo/melodica-inventory): 7  <br/>  The inventory system for biggest Bulgarian wedding agency
-- [UrbanCCD-UChicago/plenario2](https://github.com/UrbanCCD-UChicago/plenario2): 7  <br/>  The Future of Technical Debt
-- [dreamingechoes/diversity-in-tech](https://github.com/dreamingechoes/diversity-in-tech): 6  <br/>  Phoenix application to rate tech companies according to how diverse friendly they are.
-- [instedd/aida](https://github.com/instedd/aida): 6  <br/>  
-- [Ninjarab/hydra](https://github.com/Ninjarab/hydra): 6  <br/>  Hydra is a free tool for predicting stock prices using technical analysis
-- [obudget/core](https://github.com/obudget/core): 6  <br/>  Open Budget Core: An open source envelope budgeting platform
-- [straw-hat-team/straw_hat_review](https://github.com/straw-hat-team/straw_hat_review): 6  <br/>  Review System
-- [axelclark/ex338](https://github.com/axelclark/ex338): 5  <br/>  Web application to manage the 338 Challenge fantasy sports league
-- [edance/squeeze](https://github.com/edance/squeeze): 5  <br/>  🍊🏃 Track Runs and Workouts with Strava
-- [etalab/transport-site](https://github.com/etalab/transport-site): 5  <br/>  Rendre disponible, valoriser et améliorer les données transports
-- [simplabs/breethe-server](https://github.com/simplabs/breethe-server): 5  <br/>  Air Quality Data for Locations around the World
-- [cruessler/lafamiglia](https://github.com/cruessler/lafamiglia): 3  <br/>  Browser-based strategic multiplayer game
-- [acconrad/peergym](https://github.com/acconrad/peergym): 3  <br/>  PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp.
-- [dreamingechoes/retrospectivex](https://github.com/dreamingechoes/retrospectivex): 3  <br/>  Phoenix application to create retrospective boards.
-- [EdgeCommander/edge-commander](https://github.com/EdgeCommander/edge-commander): 3  <br/>  Device Management & Monitoring Application
-- [LittleKidogo/spender](https://github.com/LittleKidogo/spender): 3  <br/>  Some automated forms to aid in our spending
-- [coderplanets/coderplanets_server](https://github.com/coderplanets/coderplanets_server): 2  <br/>  backend of coderplanets.com
-- [instedd/active-monitoring](https://github.com/instedd/active-monitoring): 1  <br/>  
-- [https://git.pleroma.social/pleroma/pleroma](https://git.pleroma.social/pleroma/pleroma): 0  <br/>  ---
-- [boilercoding/crm](https://github.com/boilercoding/crm): 0  <br/>  Contact Management made with Elixir
-- [danbruder/whiteboard](https://github.com/danbruder/whiteboard): 0  <br/>  Multi-user real time whiteboard
-- [emadb/rovex](https://github.com/emadb/rovex): 0  <br/>  A multi mars rover implementation in Elixir.
-- [https://gitlab.com/code-stats/code-stats](https://gitlab.com/code-stats/code-stats): 0  <br/>  ---
+- [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database. <br/> (2162 stars / 2018-06-10 / 149 commits )
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Hacker to the 💚 <br/> (1411 stars / 2018-07-27 / 2076 commits )
+- [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts <br/> (1251 stars / 2018-07-09 / 2143 commits )
+- [WallarooLabs/wallaroo](https://github.com/WallarooLabs/wallaroo) - Build and scale real-time data applications as easily as writing a Python script <br/> (1031 stars / 2018-07-25 / 4353 commits )
+- [operable/cog](https://github.com/operable/cog) - Bringing the power of the command line to chat <br/> (846 stars / 2018-07-11 / 2566 commits )
+- [dailydrip/firestorm](https://github.com/dailydrip/firestorm) - An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. <br/> (791 stars / 2018-07-13 / 179 commits )
+- [levelhq/level](https://github.com/levelhq/level) - Distraction-free communication for software teams <br/> (515 stars / 2018-07-27 / 1134 commits )
+- [hexpm/hexpm](https://github.com/hexpm/hexpm) - API server and website for Hex <br/> (451 stars / 2018-07-19 / 2065 commits )
+- [evercam/evercam-server](https://github.com/evercam/evercam-server) - Cloud CCTV Server (Phoenix) <br/> (355 stars / 2018-07-18 / 1882 commits )
+- [thoughtbot/constable](https://github.com/thoughtbot/constable) - Better company announcements <br/> (348 stars / 2018-07-20 / 437 commits )
+- [mirego/accent](https://github.com/mirego/accent) - ▴ Open-source, self-hosted, developer-oriented translation tool <br/> (322 stars / 2018-07-05 / 78 commits )
+- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) - 👁 A merge bot for GitHub Pull Requests <br/> (286 stars / 2018-07-26 / 788 commits )
+- [code-corps/code-corps-api](https://github.com/code-corps/code-corps-api) - Elixir/Phoenix API for Code Corps. <br/> (216 stars / 2018-03-24 / 1211 commits )
+- [omisego/ewallet](https://github.com/omisego/ewallet) - eWallet Backend for the OmiseGO SDKs. <br/> (202 stars / 2018-07-26 / 498 commits )
+- [rrrene/elixirstatus-web](https://github.com/rrrene/elixirstatus-web) - Community site for Elixir project/blog post/version updates <br/> (198 stars / 2018-05-23 / 278 commits )
+- [cerclecrm/cercle](https://github.com/cerclecrm/cercle) - Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs <br/> (197 stars / 2018-01-26 / 1380 commits )
+- [oestrich/ex_venture](https://github.com/oestrich/ex_venture) - Multi-User Dungeon (MUD) server written in Elixir <br/> (190 stars / 2018-07-27 / 1644 commits )
+- [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned in Elixir <br/> (188 stars / 2018-07-27 / 804 commits )
+- [AlloyCI/alloy_ci](https://github.com/AlloyCI/alloy_ci) - Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. <br/> (169 stars / 2018-07-18 / 392 commits )
+- [vutuv/vutuv](https://github.com/vutuv/vutuv) - vutuv is a social network service to host and share information about humans and organizations. <br/> (160 stars / 2017-11-29 / 1046 commits )
+- [almightycouch/gitgud](https://github.com/almightycouch/gitgud) - GitHub clone entirely written in Elixir. <br/> (149 stars / 2018-03-05 / 153 commits )
+- [usecanvas/api-v2](https://github.com/usecanvas/api-v2) -  <br/> (109 stars / 2017-04-04 / 486 commits )
+- [rizafahmi/elixirjobs](https://github.com/rizafahmi/elixirjobs) - Job portal for Alchemist <br/> (101 stars / 2017-10-22 / 169 commits )
+- [statuspal/statuspal](https://github.com/statuspal/statuspal) - Statuspal lets you communicate your web apps/services status 📡 <br/> (92 stars / 2018-07-03 / 181 commits )
+- [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api) - Index page and integration layer for projects that related to Ukrainian Health Services government institution <br/> (83 stars / 2018-07-27 / 3439 commits )
+- [tuvistavie/opencov](https://github.com/tuvistavie/opencov) - Open source code coverage history webapp <br/> (76 stars / 2018-05-02 / 211 commits )
+- [andersju/webbkoll](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy. <br/> (74 stars / 2018-07-17 / 84 commits )
+- [gitcoinco/codefund](https://github.com/gitcoinco/codefund) - CodeFund.io (formerly Code Sponsor) <br/> (68 stars / 2018-07-27 / 271 commits )
+- [BuddyGG/buddy_matching](https://github.com/BuddyGG/buddy_matching) - Somewhat generic player matching service built with Elixir and Phoenix <br/> (57 stars / 2018-07-06 / 311 commits )
+- [kenforthewin/mentat](https://github.com/kenforthewin/mentat) - scalable group chat with tags and pretty good privacy. <br/> (52 stars / 2018-06-29 / 64 commits )
+- [strattadb/margaret](https://github.com/strattadb/margaret) - 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium. <br/> (48 stars / 2018-07-28 / 1177 commits )
+- [emcasa/backend](https://github.com/emcasa/backend) - EmCasa Backend <br/> (43 stars / 2018-07-27 / 1068 commits )
+- [healthlocker/healthlocker](https://github.com/healthlocker/healthlocker) - Inspire and motivate people to stay well. <br/> (41 stars / 2018-06-22 / 2972 commits )
+- [GBH/loaded.bike](https://github.com/GBH/loaded.bike) - Phoenix/Elixir web app for exploring and sharing bicycle touring routes <br/> (36 stars / 2018-01-07 / 232 commits )
+- [access-company/antikythera](https://github.com/access-company/antikythera) - Elixir framework to build your own in-house PaaS <br/> (34 stars / 2018-07-26 / 67 commits )
+- [santiment/sanbase2](https://github.com/santiment/sanbase2) - The source code of the Sanbase application in Santiment LLC <br/> (31 stars / 2018-07-27 / 2494 commits )
+- [barsoom/review](https://github.com/barsoom/review) - A tool for commit-by-commit code review of repositories on GitHub <br/> (24 stars / 2018-07-11 / 472 commits )
+- [digitalnatives/course_planner](https://github.com/digitalnatives/course_planner) - An application to manage educational courses <br/> (23 stars / 2018-03-24 / 1730 commits )
+- [freshcom/freshcom-api](https://github.com/freshcom/freshcom-api) - Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix <br/> (23 stars / 2018-07-16 / 695 commits )
+- [thoughtbot/community](https://github.com/thoughtbot/community) -  <br/> (20 stars / 2018-06-15 / 104 commits )
+- [joaquimadraz/opensubs.io](https://github.com/joaquimadraz/opensubs.io) - Track recurring bills and subscriptions <br/> (19 stars / 2018-06-03 / 255 commits )
+- [mozilla/reticulum](https://github.com/mozilla/reticulum) - Phoenix web server for Social MR <br/> (18 stars / 2018-07-23 / 410 commits )
+- [johndavedecano/CoderJobs](https://github.com/johndavedecano/CoderJobs) - A job board application built using Elixir and Phoenix Framework. <br/> (16 stars / 2018-06-26 / 76 commits )
+- [aviabird/snitch](https://github.com/aviabird/snitch) - E-Commerce re-invented in Elixir <br/> (15 stars / 2018-07-24 / 127 commits )
+- [mgwidmann/slack_coder](https://github.com/mgwidmann/slack_coder) - Slack Bot for watching your Github & CI builds <br/> (14 stars / 2017-11-27 / 643 commits )
+- [ironbay/kora](https://github.com/ironbay/kora) - Modern NoSQL + Graph database that facilitates real-time data syncing between online or offline devices and servers. Eliminates the need for API servers between database and client <br/> (13 stars / 2018-06-27 / 204 commits )
+- [dwyl/phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example) - A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types <br/> (13 stars / 2018-05-18 / 69 commits )
+- [cancoin/bitcoin-voyager](https://github.com/cancoin/bitcoin-voyager) - Websocket and REST Server for querying Libbitcoin Server <br/> (12 stars / 2016-12-02 / 48 commits )
+- [crossfield/cx_leaderboard](https://github.com/crossfield/cx_leaderboard) - Elixir library for fast, customizable leaderboards <br/> (11 stars / 2018-06-19 / 73 commits )
+- [infinityoneframework/infinity_one](https://github.com/infinityoneframework/infinity_one) - A Team Collaboration Suite <br/> (11 stars / 2018-05-20 / 526 commits )
+- [fremantle-capital/tai](https://github.com/fremantle-capital/tai) - A trading toolkit built with Elixir that runs on the Erlang virtual machine <br/> (10 stars / 2018-07-24 / 285 commits )
+- [audioslides/audioslides.io](https://github.com/audioslides/audioslides.io) - Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. <br/> (9 stars / 2018-05-22 / 468 commits )
+- [instedd/ask](https://github.com/instedd/ask) - InSTEDD Ask <br/> (9 stars / 2018-06-27 / 2869 commits )
+- [Prabandham/excms](https://github.com/Prabandham/excms) - This is a tailored CMS application to fit to the needs of Larks. <br/> (9 stars / 2018-06-21 / 104 commits )
+- [dwyl/bestevidence](https://github.com/dwyl/bestevidence) - City, University of London BestEvidence app <br/> (8 stars / 2018-07-25 / 602 commits )
+- [pcorey/inject_detect](https://github.com/pcorey/inject_detect) -  <br/> (8 stars / 2017-09-26 / 278 commits )
+- [ElixirSeattle/tanx](https://github.com/ElixirSeattle/tanx) - Tank game created by the Programming Elixir study group <br/> (7 stars / 2018-07-25 / 201 commits )
+- [valo/melodica-inventory](https://github.com/valo/melodica-inventory) - The inventory system for biggest Bulgarian wedding agency <br/> (7 stars / 2017-08-15 / 191 commits )
+- [UrbanCCD-UChicago/plenario2](https://github.com/UrbanCCD-UChicago/plenario2) - The Future of Technical Debt <br/> (7 stars / 2018-07-26 / 741 commits )
+- [source-academy/cadet](https://github.com/source-academy/cadet) -  <br/> (7 stars / 2018-07-28 / 160 commits )
+- [dreamingechoes/diversity-in-tech](https://github.com/dreamingechoes/diversity-in-tech) - Phoenix application to rate tech companies according to how diverse friendly they are. <br/> (6 stars / 2018-06-27 / 149 commits )
+- [instedd/aida](https://github.com/instedd/aida) -  <br/> (6 stars / 2018-07-27 / 431 commits )
+- [Ninjarab/hydra](https://github.com/Ninjarab/hydra) - Hydra is a free tool for predicting stock prices using technical analysis <br/> (6 stars / 2018-06-17 / 3 commits )
+- [obudget/core](https://github.com/obudget/core) - Open Budget Core: An open source envelope budgeting platform <br/> (6 stars / 2018-07-06 / 180 commits )
+- [straw-hat-team/straw_hat_review](https://github.com/straw-hat-team/straw_hat_review) - Review System <br/> (6 stars / 2018-07-01 / 266 commits )
+- [axelclark/ex338](https://github.com/axelclark/ex338) - Web application to manage the 338 Challenge fantasy sports league <br/> (5 stars / 2018-07-28 / 500 commits )
+- [edance/squeeze](https://github.com/edance/squeeze) - 🍊🏃 Track Runs and Workouts with Strava <br/> (5 stars / 2018-07-17 / 93 commits )
+- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports <br/> (5 stars / 2018-07-27 / 575 commits )
+- [simplabs/breethe-server](https://github.com/simplabs/breethe-server) - Air Quality Data for Locations around the World <br/> (5 stars / 2018-06-22 / 242 commits )
+- [cruessler/lafamiglia](https://github.com/cruessler/lafamiglia) - Browser-based strategic multiplayer game <br/> (3 stars / 2018-06-26 / 624 commits )
+- [acconrad/peergym](https://github.com/acconrad/peergym) - PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. <br/> (3 stars / 2018-06-27 / 150 commits )
+- [dreamingechoes/retrospectivex](https://github.com/dreamingechoes/retrospectivex) - Phoenix application to create retrospective boards. <br/> (3 stars / 2018-07-27 / 71 commits )
+- [EdgeCommander/edge-commander](https://github.com/EdgeCommander/edge-commander) - Device Management & Monitoring Application <br/> (3 stars / 2018-07-20 / 322 commits )
+- [LittleKidogo/spender](https://github.com/LittleKidogo/spender) - Some automated forms to aid in our spending <br/> (3 stars / 2018-07-24 / 516 commits )
+- [coderplanets/coderplanets_server](https://github.com/coderplanets/coderplanets_server) - backend of coderplanets.com <br/> (2 stars / 2018-07-28 / 519 commits )
+- [instedd/active-monitoring](https://github.com/instedd/active-monitoring) -  <br/> (1 stars / 2018-06-01 / 325 commits )
+- [https://git.pleroma.social/pleroma/pleroma](https://git.pleroma.social/pleroma/pleroma) - --- <br/> (0 stars / --- / 0 commits )
+- [boilercoding/crm](https://github.com/boilercoding/crm) - Contact Management made with Elixir <br/> (0 stars / 2017-07-19 / 51 commits )
+- [danbruder/whiteboard](https://github.com/danbruder/whiteboard) - Multi-user real time whiteboard <br/> (0 stars / 2018-03-21 / 15 commits )
+- [emadb/rovex](https://github.com/emadb/rovex) - A multi mars rover implementation in Elixir. <br/> (0 stars / 2018-06-15 / 78 commits )
+- [https://gitlab.com/code-stats/code-stats](https://gitlab.com/code-stats/code-stats) - --- <br/> (0 stars / --- / 0 commits )
 <!-- /POPULARITY_LIST -->
 
 ### By size
