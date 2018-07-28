@@ -6,8 +6,8 @@ defmodule Updater.CrawlerTest do
 
 
   setup do
-    case :ets.info(:buckets_registrys) do
-      :undefined -> :ets.new(:buckets_registry, [:named_table])
+    case :ets.info(:fixture_cache) do
+      :undefined -> :ets.new(:fixture_cache, [:named_table])
       _ -> nil
     end
 
@@ -15,11 +15,11 @@ defmodule Updater.CrawlerTest do
   end
 
   def fixture(file) do
-    case :ets.lookup(:buckets_registry, file) do
+    case :ets.lookup(:fixture_cache, file) do
       [{^file, content}] -> {:ok, content}
       [] ->
         content = "test/fixtures/#{file}" |> File.read!() |> Floki.parse()
-        :ets.insert(:buckets_registry, {file, content})
+        :ets.insert(:fixture_cache, {file, content})
         {:ok, content}
     end
   end
