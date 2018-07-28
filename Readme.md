@@ -12,3 +12,24 @@ Found here:
 ```bash
 $ make update
 ```
+
+
+### Navigation
+
+- [By Size](#by-size)
+- [By Activity](#by-activity)
+
+### Projects
+<!-- PROJECTS_LIST -->
+
+<!-- /PROJECTS_LIST -->
+
+### By Activity
+<!-- ACTIVITY_LIST -->
+
+<!-- /ACTIVITY_LIST -->
+
+### By size
+<!-- SIZE_LIST -->
+
+<!-- /SIZE_LIST -->
