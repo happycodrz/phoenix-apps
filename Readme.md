@@ -37,12 +37,12 @@ $ make update
 - [almightycouch/gitgud](https://github.com/almightycouch/gitgud) - GitHub clone entirely written in Elixir. <br/> ( 2018-03-05 / 153 commits / 149 stars )
 - [andersju/webbkoll](https://github.com/andersju/webbkoll) - An online tool that checks how a website is doing with regards to privacy. <br/> ( 2018-07-17 / 84 commits / 74 stars )
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts <br/> ( 2018-07-09 / 2143 commits / 1251 stars )
-- [audioslides/audioslides.io](https://github.com/audioslides/audioslides.io) - Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime byÂ anyone. This project is written in Elixir. <br/> ( 2018-05-22 / 468 commits / 9 stars )
+- [audioslides/audioslides.io](https://github.com/audioslides/audioslides.io) - Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. <br/> ( 2018-05-22 / 468 commits / 9 stars )
 - [aviabird/snitch](https://github.com/aviabird/snitch) - E-Commerce re-invented in Elixir <br/> ( 2018-07-24 / 127 commits / 15 stars )
 - [axelclark/ex338](https://github.com/axelclark/ex338) - Web application to manage the 338 Challenge fantasy sports league <br/> ( 2018-07-28 / 500 commits / 5 stars )
 - [barsoom/review](https://github.com/barsoom/review) - A tool for commit-by-commit code review of repositories on GitHub <br/> ( 2018-07-11 / 472 commits / 24 stars )
 - [boilercoding/crm](https://github.com/boilercoding/crm) - Contact Management made with Elixir <br/> ( 2017-07-19 / 51 commits / 0 stars )
-- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) - ð A merge bot for GitHub Pull Requests <br/> ( 2018-07-26 / 788 commits / 286 stars )
+- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng) - 👁 A merge bot for GitHub Pull Requests <br/> ( 2018-07-26 / 788 commits / 286 stars )
 - [cancoin/bitcoin-voyager](https://github.com/cancoin/bitcoin-voyager) - Websocket and REST Server for querying Libbitcoin Server <br/> ( 2016-12-02 / 48 commits / 12 stars )
 - [cerclecrm/cercle](https://github.com/cerclecrm/cercle) - Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs <br/> ( 2018-01-26 / 1380 commits / 197 stars )
 - [code-corps/code-corps-api](https://github.com/code-corps/code-corps-api) - Elixir/Phoenix API for Code Corps. <br/> ( 2018-03-24 / 1211 commits / 216 stars )
@@ -56,11 +56,11 @@ $ make update
 - [dreamingechoes/retrospectivex](https://github.com/dreamingechoes/retrospectivex) - Phoenix application to create retrospective boards. <br/> ( 2018-07-27 / 71 commits / 3 stars )
 - [dwyl/bestevidence](https://github.com/dwyl/bestevidence) - City, University of London BestEvidence app <br/> ( 2018-07-25 / 602 commits / 8 stars )
 - [dwyl/phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example) - A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types <br/> ( 2018-05-18 / 69 commits / 13 stars )
-- [edance/squeeze](https://github.com/edance/squeeze) - ðð Track Runs and Workouts with Strava <br/> ( 2018-07-17 / 93 commits / 5 stars )
+- [edance/squeeze](https://github.com/edance/squeeze) - 🍊🏃 Track Runs and Workouts with Strava <br/> ( 2018-07-17 / 93 commits / 5 stars )
 - [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api) - Index page and integration layer for projects that related to Ukrainian Health Services government institution <br/> ( 2018-07-27 / 3439 commits / 83 stars )
 - [emadb/rovex](https://github.com/emadb/rovex) - A multi mars rover implementation in Elixir. <br/> ( 2018-06-15 / 78 commits / 0 stars )
 - [emcasa/backend](https://github.com/emcasa/backend) - EmCasa Backend <br/> ( 2018-07-27 / 1068 commits / 43 stars )
-- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et amÃ©liorer les donnÃ©es transports <br/> ( 2018-07-27 / 575 commits / 5 stars )
+- [etalab/transport-site](https://github.com/etalab/transport-site) - Rendre disponible, valoriser et améliorer les données transports <br/> ( 2018-07-27 / 575 commits / 5 stars )
 - [evercam/evercam-server](https://github.com/evercam/evercam-server) - Cloud CCTV Server (Phoenix) <br/> ( 2018-07-18 / 1882 commits / 355 stars )
 - [fremantle-capital/tai](https://github.com/fremantle-capital/tai) - A trading toolkit built with Elixir that runs on the Erlang virtual machine <br/> ( 2018-07-24 / 285 commits / 10 stars )
 - [freshcom/freshcom-api](https://github.com/freshcom/freshcom-api) - Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix <br/> ( 2018-07-16 / 695 commits / 23 stars )
@@ -78,7 +78,7 @@ $ make update
 - [kenforthewin/mentat](https://github.com/kenforthewin/mentat) - scalable group chat with tags and pretty good privacy. <br/> ( 2018-06-29 / 64 commits / 52 stars )
 - [levelhq/level](https://github.com/levelhq/level) - Distraction-free communication for software teams <br/> ( 2018-07-27 / 1134 commits / 515 stars )
 - [mgwidmann/slack_coder](https://github.com/mgwidmann/slack_coder) - Slack Bot for watching your Github & CI builds <br/> ( 2017-11-27 / 643 commits / 14 stars )
-- [mirego/accent](https://github.com/mirego/accent) - â´ Open-source, self-hosted, developer-oriented translation tool <br/> ( 2018-07-05 / 78 commits / 322 stars )
+- [mirego/accent](https://github.com/mirego/accent) - ▴ Open-source, self-hosted, developer-oriented translation tool <br/> ( 2018-07-05 / 78 commits / 322 stars )
 - [mozilla/reticulum](https://github.com/mozilla/reticulum) - Phoenix web server for Social MR <br/> ( 2018-07-23 / 410 commits / 18 stars )
 - [obudget/core](https://github.com/obudget/core) - Open Budget Core: An open source envelope budgeting platform <br/> ( 2018-07-06 / 180 commits / 6 stars )
 - [oestrich/ex_venture](https://github.com/oestrich/ex_venture) - Multi-User Dungeon (MUD) server written in Elixir <br/> ( 2018-07-27 / 1644 commits / 190 stars )
@@ -91,10 +91,10 @@ $ make update
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database. <br/> ( 2018-06-10 / 149 commits / 2162 stars )
 - [simplabs/breethe-server](https://github.com/simplabs/breethe-server) - Air Quality Data for Locations around the World <br/> ( 2018-06-22 / 242 commits / 5 stars )
 - [source-academy/cadet](https://github.com/source-academy/cadet) -  <br/> ( 2018-07-28 / 160 commits / 7 stars )
-- [statuspal/statuspal](https://github.com/statuspal/statuspal) - Statuspal lets you communicate your web apps/services status ð¡ <br/> ( 2018-07-03 / 181 commits / 92 stars )
-- [strattadb/margaret](https://github.com/strattadb/margaret) - ð©âð ð A publishing platform. An open-source alternative to Medium. <br/> ( 2018-07-28 / 1177 commits / 48 stars )
+- [statuspal/statuspal](https://github.com/statuspal/statuspal) - Statuspal lets you communicate your web apps/services status 📡 <br/> ( 2018-07-03 / 181 commits / 92 stars )
+- [strattadb/margaret](https://github.com/strattadb/margaret) - 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium. <br/> ( 2018-07-28 / 1177 commits / 48 stars )
 - [straw-hat-team/straw_hat_review](https://github.com/straw-hat-team/straw_hat_review) - Review System <br/> ( 2018-07-01 / 266 commits / 6 stars )
-- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Hacker to the ð <br/> ( 2018-07-27 / 2076 commits / 1411 stars )
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) - Hacker to the 💚 <br/> ( 2018-07-27 / 2076 commits / 1411 stars )
 - [thoughtbot/community](https://github.com/thoughtbot/community) -  <br/> ( 2018-06-15 / 104 commits / 20 stars )
 - [thoughtbot/constable](https://github.com/thoughtbot/constable) - Better company announcements <br/> ( 2018-07-20 / 437 commits / 348 stars )
 - [tuvistavie/opencov](https://github.com/tuvistavie/opencov) - Open source code coverage history webapp <br/> ( 2018-05-02 / 211 commits / 76 stars )
@@ -108,20 +108,20 @@ $ make update
 <!-- ACTIVITY_LIST -->
 - [coderplanets/coderplanets_server](https://github.com/coderplanets/coderplanets_server): 2018-07-28  <br/>  backend of coderplanets.com
 - [source-academy/cadet](https://github.com/source-academy/cadet): 2018-07-28  <br/>  
-- [strattadb/margaret](https://github.com/strattadb/margaret): 2018-07-28  <br/>  ð©âð ð A publishing platform. An open-source alternative to Medium.
+- [strattadb/margaret](https://github.com/strattadb/margaret): 2018-07-28  <br/>  👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
 - [axelclark/ex338](https://github.com/axelclark/ex338): 2018-07-28  <br/>  Web application to manage the 338 Challenge fantasy sports league
 - [instedd/aida](https://github.com/instedd/aida): 2018-07-27  <br/>  
 - [levelhq/level](https://github.com/levelhq/level): 2018-07-27  <br/>  Distraction-free communication for software teams
-- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com): 2018-07-27  <br/>  Hacker to the ð
+- [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com): 2018-07-27  <br/>  Hacker to the 💚
 - [hashrocket/tilex](https://github.com/hashrocket/tilex): 2018-07-27  <br/>  Today I Learned in Elixir
 - [gitcoinco/codefund](https://github.com/gitcoinco/codefund): 2018-07-27  <br/>  CodeFund.io (formerly Code Sponsor)
-- [etalab/transport-site](https://github.com/etalab/transport-site): 2018-07-27  <br/>  Rendre disponible, valoriser et amÃ©liorer les donnÃ©es transports
+- [etalab/transport-site](https://github.com/etalab/transport-site): 2018-07-27  <br/>  Rendre disponible, valoriser et améliorer les données transports
 - [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api): 2018-07-27  <br/>  Index page and integration layer for projects that related to Ukrainian Health Services government institution
 - [santiment/sanbase2](https://github.com/santiment/sanbase2): 2018-07-27  <br/>  The source code of the Sanbase application in Santiment LLC
 - [oestrich/ex_venture](https://github.com/oestrich/ex_venture): 2018-07-27  <br/>  Multi-User Dungeon (MUD) server written in Elixir
 - [emcasa/backend](https://github.com/emcasa/backend): 2018-07-27  <br/>  EmCasa Backend
 - [dreamingechoes/retrospectivex](https://github.com/dreamingechoes/retrospectivex): 2018-07-27  <br/>  Phoenix application to create retrospective boards.
-- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng): 2018-07-26  <br/>  ð A merge bot for GitHub Pull Requests
+- [bors-ng/bors-ng](https://github.com/bors-ng/bors-ng): 2018-07-26  <br/>  👁 A merge bot for GitHub Pull Requests
 - [UrbanCCD-UChicago/plenario2](https://github.com/UrbanCCD-UChicago/plenario2): 2018-07-26  <br/>  The Future of Technical Debt
 - [omisego/ewallet](https://github.com/omisego/ewallet): 2018-07-26  <br/>  eWallet Backend for the OmiseGO SDKs.
 - [access-company/antikythera](https://github.com/access-company/antikythera): 2018-07-26  <br/>  Elixir framework to build your own in-house PaaS
@@ -138,7 +138,7 @@ $ make update
 - [AlloyCI/alloy_ci](https://github.com/AlloyCI/alloy_ci): 2018-07-18  <br/>  Continuous Integration, Deployment, and Delivery coordinator, written in Elixir.
 - [evercam/evercam-server](https://github.com/evercam/evercam-server): 2018-07-18  <br/>  Cloud CCTV Server (Phoenix)
 - [andersju/webbkoll](https://github.com/andersju/webbkoll): 2018-07-17  <br/>  An online tool that checks how a website is doing with regards to privacy.
-- [edance/squeeze](https://github.com/edance/squeeze): 2018-07-17  <br/>  ðð Track Runs and Workouts with Strava
+- [edance/squeeze](https://github.com/edance/squeeze): 2018-07-17  <br/>  🍊🏃 Track Runs and Workouts with Strava
 - [freshcom/freshcom-api](https://github.com/freshcom/freshcom-api): 2018-07-16  <br/>  Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix
 - [dailydrip/firestorm](https://github.com/dailydrip/firestorm): 2018-07-13  <br/>  An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend.
 - [operable/cog](https://github.com/operable/cog): 2018-07-11  <br/>  Bringing the power of the command line to chat
@@ -146,8 +146,8 @@ $ make update
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server): 2018-07-09  <br/>  Web app for hosting asciicasts
 - [obudget/core](https://github.com/obudget/core): 2018-07-06  <br/>  Open Budget Core: An open source envelope budgeting platform
 - [BuddyGG/buddy_matching](https://github.com/BuddyGG/buddy_matching): 2018-07-06  <br/>  Somewhat generic player matching service built with Elixir and Phoenix
-- [mirego/accent](https://github.com/mirego/accent): 2018-07-05  <br/>  â´ Open-source, self-hosted, developer-oriented translation tool
-- [statuspal/statuspal](https://github.com/statuspal/statuspal): 2018-07-03  <br/>  Statuspal lets you communicate your web apps/services status ð¡
+- [mirego/accent](https://github.com/mirego/accent): 2018-07-05  <br/>  ▴ Open-source, self-hosted, developer-oriented translation tool
+- [statuspal/statuspal](https://github.com/statuspal/statuspal): 2018-07-03  <br/>  Statuspal lets you communicate your web apps/services status 📡
 - [straw-hat-team/straw_hat_review](https://github.com/straw-hat-team/straw_hat_review): 2018-07-01  <br/>  Review System
 - [kenforthewin/mentat](https://github.com/kenforthewin/mentat): 2018-06-29  <br/>  scalable group chat with tags and pretty good privacy.
 - [dreamingechoes/diversity-in-tech](https://github.com/dreamingechoes/diversity-in-tech): 2018-06-27  <br/>  Phoenix application to rate tech companies according to how diverse friendly they are.
@@ -167,7 +167,7 @@ $ make update
 - [joaquimadraz/opensubs.io](https://github.com/joaquimadraz/opensubs.io): 2018-06-03  <br/>  Track recurring bills and subscriptions
 - [instedd/active-monitoring](https://github.com/instedd/active-monitoring): 2018-06-01  <br/>  
 - [rrrene/elixirstatus-web](https://github.com/rrrene/elixirstatus-web): 2018-05-23  <br/>  Community site for Elixir project/blog post/version updates
-- [audioslides/audioslides.io](https://github.com/audioslides/audioslides.io): 2018-05-22  <br/>  Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime byÂ anyone. This project is written in Elixir.
+- [audioslides/audioslides.io](https://github.com/audioslides/audioslides.io): 2018-05-22  <br/>  Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir.
 - [infinityoneframework/infinity_one](https://github.com/infinityoneframework/infinity_one): 2018-05-20  <br/>  A Team Collaboration Suite
 - [dwyl/phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example): 2018-05-18  <br/>  A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types
 - [tuvistavie/opencov](https://github.com/tuvistavie/opencov): 2018-05-02  <br/>  Open source code coverage history webapp
