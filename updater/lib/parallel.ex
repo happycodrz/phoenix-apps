@@ -9,7 +9,7 @@ defmodule Updater.Parallel do
   # --------------------- Priv ---------------------
   defp run([h|t], fun, workers, n, res) when n < workers do
     me = self()
-    IO.write(".") # this is just for testing...
+    # IO.write(".") # this is just for testing...
     spawn_link fn ->
       send me, {h, fun.(h)}
     end
