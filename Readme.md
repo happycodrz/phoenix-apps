@@ -106,6 +106,8 @@ $ make update
 - [https://gitlab.com/code-stats/code-stats](https://gitlab.com/code-stats/code-stats) - --- <br/> ( --- / 0 commits / 0 stars )
 <!-- /PROJECTS_LIST -->
 
+[⬆ Navigation](#navigation)
+
 ### By CommitCount
 <!-- COMMITCOUNT_LIST -->
 - [WallarooLabs/wallaroo](https://github.com/WallarooLabs/wallaroo) - Build and scale real-time data applications as easily as writing a Python script <br/> (4353 commits / 1031 stars / 2018-07-25 )
@@ -190,6 +192,7 @@ $ make update
 - [https://git.pleroma.social/pleroma/pleroma](https://git.pleroma.social/pleroma/pleroma) - --- <br/> (0 commits / 0 stars / --- )
 - [https://gitlab.com/code-stats/code-stats](https://gitlab.com/code-stats/code-stats) - --- <br/> (0 commits / 0 stars / --- )
 <!-- /COMMITCOUNT_LIST -->
+[⬆ Navigation](#navigation)
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
@@ -276,6 +279,8 @@ $ make update
 - [https://gitlab.com/code-stats/code-stats](https://gitlab.com/code-stats/code-stats) - --- <br/> ( --- / 0 commits / 0 stars )
 <!-- /ACTIVITY_LIST -->
 
+[⬆ Navigation](#navigation)
+
 ### By Popularity
 <!-- POPULARITY_LIST -->
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database. <br/> (2162 stars / 2018-06-10 / 149 commits )
@@ -361,3 +366,4 @@ $ make update
 - [https://gitlab.com/code-stats/code-stats](https://gitlab.com/code-stats/code-stats) - --- <br/> (0 stars / --- / 0 commits )
 <!-- /POPULARITY_LIST -->
 
+[⬆ Navigation](#navigation)
