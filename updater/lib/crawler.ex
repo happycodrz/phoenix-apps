@@ -13,8 +13,18 @@ defmodule Updater.Crawler do
 
     body =
       cond do
-        is_binary(response.body) -> response.body |> Floki.parse()
-        true -> response.body
+        response.status == 404 ->
+          ""
+
+        response.status == 301 ->
+          IO.puts("**** MOVED #{repo}")
+          raise ""
+
+        is_binary(response.body) ->
+          response.body |> Floki.parse()
+
+        true ->
+          response.body
       end
 
     %{
@@ -95,6 +105,9 @@ defmodule Updater.Crawler do
     text
     |> String.replace(",", "")
     |> String.trim()
-    |> String.to_integer()
+    |> cleantoint
   end
+
+  defp cleantoint(""), do: 0
+  defp cleantoint(v) when is_binary(v), do: String.to_integer(v)
 end
