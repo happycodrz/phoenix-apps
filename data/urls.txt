@@ -21,6 +21,7 @@ https://github.com/crossfield/cx_leaderboard [genservers] Elixir library for fas
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
 https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. http://www.firestormforum.org
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
+https://github.com/danhper/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
 https://github.com/digitalnatives/course_planner [quality:5, realworld] An application to manage educational courses
 https://github.com/dreamingechoes/diversity-in-tech [] Phoenix application to rate tech companies according to how diverse friendly they are.
 https://github.com/dreamingechoes/retrospectivex [] Phoenix application to create retrospective boards.
@@ -61,6 +62,7 @@ https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/Prabandham/excms [cms] This is a tailored CMS application to fit to the needs of Larks.
+https://github.com/revelrylabs/incentivize [saas, realword] Software Development Incentive Platform http://incentivize.io
 https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
 https://github.com/rrrene/elixirstatus-web [realworld] Community site for Elixir project/blog post/version updates http://elixirstatus.com
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
@@ -73,7 +75,6 @@ https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://
 https://github.com/thechangelog/changelog.com [pjax, realworld] Hacker to the 💚 https://changelog.com/posts/changelog…
 https://github.com/thoughtbot/community  []  Community is an Elixir/Phoenix app that was designed primarily to run Raleigh Design. Feel free to fork it and use it for your own community!
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
-https://github.com/danhper/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
 https://github.com/UrbanCCD-UChicago/plenario2 [] The Future of Technical Debt
 https://github.com/usecanvas/api-v2 [realworld, realtime] This is the Canvas API, which provides an HTTP interface to Canvas resources, as well as event notifications over WebSockets
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
