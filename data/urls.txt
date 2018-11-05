@@ -82,3 +82,7 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
+https://github.com/hexlet-codebattle/codebattle [realworld] Codebattle game http://codebattle.hexlet.io/
+https://github.com/mozilla/reticulum [gameserver] Phoenix web server for Social MR
+https://github.com/edgurgel/httparrot [] HTTP Request & Response Server. An incomplete clone of http://httpbin.org http://httparrot.herokuapp.com
+https://github.com/Nagasaki45/krihelinator [] "Trendiness of open source software should be assessed by contribution rate, not by stars" - Meir Kriheli http://krihelinator.xyz/
