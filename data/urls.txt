@@ -31,6 +31,7 @@ https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configurati
 https://github.com/edance/squeeze [api] 🍊🏃 Track Runs and Workouts with Strava
 https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
+https://github.com/edgurgel/httparrot [] HTTP Request & Response Server. An incomplete clone of http://httpbin.org http://httparrot.herokuapp.com
 https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming Elixir study group
 https://github.com/emadb/rovex [game, websockets] A multi mars rover implementation in Elixir. http://rovex.herokuapp.com
 https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
@@ -42,6 +43,7 @@ https://github.com/GBH/loaded.bike [] Phoenix/Elixir web app for exploring and s
 https://github.com/gitcoinco/codefund [advertising, saas, realworld] CodeFund.io (formerly Code Sponsor) https://codefund.io
 https://github.com/hashrocket/tilex [realworld, pjax] Today I Learned in Elixir https://til.hashrocket.com
 https://github.com/healthlocker/healthlocker [realworld, size:5] Inspire and motivate people to stay well. https://www.healthlocker.uk
+https://github.com/hexlet-codebattle/codebattle [realworld] Codebattle game http://codebattle.hexlet.io/
 https://github.com/hexpm/hexpm [api, realworld, security] - API server and website for Hex https://hex.pm
 https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets] A Team Collaboration Suite
 https://github.com/instedd/active-monitoring [coherence] Active Monitoring
@@ -56,6 +58,7 @@ https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
 https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
 https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybrid game networking and web API server, focused on Social Mixed Reality)
+https://github.com/Nagasaki45/krihelinator [] "Trendiness of open source software should be assessed by contribution rate, not by stars" - Meir Kriheli http://krihelinator.xyz/
 https://github.com/Ninjarab/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
 https://github.com/obudget/core [] Open Budget Core: An open source envelope budgeting platform https://api.openbudget.xyz/api
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
@@ -82,7 +85,3 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
-https://github.com/hexlet-codebattle/codebattle [realworld] Codebattle game http://codebattle.hexlet.io/
-https://github.com/mozilla/reticulum [gameserver] Phoenix web server for Social MR
-https://github.com/edgurgel/httparrot [] HTTP Request & Response Server. An incomplete clone of http://httpbin.org http://httparrot.herokuapp.com
-https://github.com/Nagasaki45/krihelinator [] "Trendiness of open source software should be assessed by contribution rate, not by stars" - Meir Kriheli http://krihelinator.xyz/
