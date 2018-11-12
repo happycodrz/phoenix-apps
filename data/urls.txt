@@ -37,6 +37,7 @@ https://github.com/emadb/rovex [game, websockets] A multi mars rover implementat
 https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
 https://github.com/evercam/evercam-server [api] Cloud CCTV Server (Phoenix) https://media.evercam.io/
+https://github.com/framasoft/mobilizon [saas, distributed] Mobilizon aims to be (much) more than a decentralized and federated Meetup-clone.
 https://github.com/fremantle-capital/tai [bot, trading, genservers] A trading toolkit built with Elixir that runs on the Erlang virtual machine
 https://github.com/freshcom/freshcom-api [ecommerce, big, realworld] Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix https://docs.freshcom.io/
 https://github.com/GBH/loaded.bike [] Phoenix/Elixir web app for exploring and sharing bicycle touring routes http://loaded.bike
