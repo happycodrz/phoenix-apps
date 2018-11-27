@@ -49,7 +49,7 @@ https://github.com/hexpm/hexpm [api, realworld, security] - API server and websi
 https://github.com/infinityoneframework/infinity_one [chat, realtime, websockets] A Team Collaboration Suite
 https://github.com/instedd/active-monitoring [coherence] Active Monitoring
 https://github.com/instedd/aida [recurrence, genservers] Artificially Intelligent Digital Assistant
-https://github.com/instedd/ask  [genservers] InSTEDD Ask
+https://github.com/instedd/surveda  [genservers] InSTEDD Ask
 https://github.com/ironbay/kora [graphql, realtime, cqrs] Modern NoSQL + Graph database that facilitates real-time data syncing between online or offline devices and servers. Eliminates the need for API servers between database and client
 https://github.com/joaquimadraz/opensubs.io [] 💸 Track recurring bills and subscriptions
 https://github.com/johndavedecano/CoderJobs [size:2, quality:2] A job board application built using Elixir and Phoenix Framework.
