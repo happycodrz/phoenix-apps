@@ -63,7 +63,8 @@ https://github.com/Nagasaki45/krihelinator [] "Trendiness of open source softwar
 https://github.com/Ninjarab/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
 https://github.com/obudget/core [] Open Budget Core: An open source envelope budgeting platform https://api.openbudget.xyz/api
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
-https://github.com/omisego/ewallet [realworld, umbrella] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
+https://github.com/omisego/elixir-omg [realworld, umbrella, rpc-api] The elixir-omg repository contains OmiseGO's Elixir implementation of Plasma and forms the basis for the OMG Network.
+https://github.com/omisego/ewallet [realworld, umbrella, rpc-api] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/Prabandham/excms [cms] This is a tailored CMS application to fit to the needs of Larks.
