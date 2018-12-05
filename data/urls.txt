@@ -40,6 +40,7 @@ https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming El
 https://github.com/emadb/rovex [game, websockets] A multi mars rover implementation in Elixir. http://rovex.herokuapp.com
 https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
+https://github.com/Eve-of-Darkness/eve-of-darkness [] Dark Age of Camelot Server http://www.eveofdarkness.org/
 https://github.com/evercam/evercam-server [api] Cloud CCTV Server (Phoenix) https://media.evercam.io/
 https://github.com/framasoft/mobilizon [saas, distributed] Mobilizon aims to be (much) more than a decentralized and federated Meetup-clone.
 https://github.com/fremantle-capital/tai [bot, trading, genservers] A trading toolkit built with Elixir that runs on the Erlang virtual machine
