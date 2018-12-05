@@ -68,6 +68,7 @@ https://github.com/omisego/ewallet [realworld, umbrella, rpc-api] eWallet Backen
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/Prabandham/excms [cms] This is a tailored CMS application to fit to the needs of Larks.
+https://github.com/puemos/riso [] Riso - An open source developers recruiting tool
 https://github.com/revelrylabs/incentivize [saas, realword] Software Development Incentive Platform http://incentivize.io
 https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
 https://github.com/rrrene/elixirstatus-web [realworld] Community site for Elixir project/blog post/version updates http://elixirstatus.com
@@ -87,3 +88,7 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
+https://github.com/Bluetab/td-audit [] TdAudit is a back-end service developed as part of /truedat project that supports the management of events
+https://github.com/Bluetab/td-se [] /truedat Search Engine back-end service
+https://github.com/Bluetab/td-ie [realworld] /truedat Ingest Engine back-end service
+https://github.com/Bluetab/td-bg [realworld] TdBG is a back-end service developed as part of True Dat project that supports the genearation of a Business Glossary
