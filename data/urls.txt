@@ -9,6 +9,10 @@ https://github.com/audioslides/audioslides.io [] Use Amazon Polly, Google Slides
 https://github.com/aviacommerce/avia [ecommerce, umbrella] E-Commerce re-invented in Elixir
 https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
 https://github.com/barsoom/review [] A tool for commit-by-commit code review of repositories on GitHub https://review-on-review.herokuapp.co…
+https://github.com/Bluetab/td-audit [] TdAudit is a back-end service developed as part of /truedat project that supports the management of events
+https://github.com/Bluetab/td-bg [realworld] TdBG is a back-end service developed as part of True Dat project that supports the genearation of a Business Glossary
+https://github.com/Bluetab/td-ie [realworld] /truedat Ingest Engine back-end service
+https://github.com/Bluetab/td-se [] /truedat Search Engine back-end service
 https://github.com/boilercoding/crm [] Contact Management made with Elixir https://elixir-phoenix-crm.herokuapp.com
 https://github.com/bors-ng/bors-ng [bot] 👁 A merge bot for GitHub Pull Requests https://bors.tech/
 https://github.com/BuddyGG/buddy_matching [] Somewhat generic player matching service built with Elixir and Phoenix https://www.buddy.gg
@@ -88,7 +92,3 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
-https://github.com/Bluetab/td-audit [] TdAudit is a back-end service developed as part of /truedat project that supports the management of events
-https://github.com/Bluetab/td-se [] /truedat Search Engine back-end service
-https://github.com/Bluetab/td-ie [realworld] /truedat Ingest Engine back-end service
-https://github.com/Bluetab/td-bg [realworld] TdBG is a back-end service developed as part of True Dat project that supports the genearation of a Business Glossary
