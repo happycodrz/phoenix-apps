@@ -46,7 +46,7 @@ defmodule Updater.CrawlerTest do
 
   test "stats" do
     {:ok, body}  = fixture("rails.html")
-    mock(Tesla, [get: 1], {:ok, %{body: body}})
+    mock(Tesla, [get: 1], {:ok, %{body: body, status: 200}})
 
     expected = %{
       repo: "https://github.com/rails/rails",
