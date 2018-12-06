@@ -20,6 +20,7 @@ https://github.com/cancoin/bitcoin-voyager [] Websocket and REST Server for quer
 https://github.com/CaptainFact/captain-fact-api [umbrella, graphql, s3] 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io
 https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs http://get.cercle.co
 https://github.com/cesium/safira [api, heroku] 💎 safira platform (intra 2.0)
+https://github.com/civilcode/acme-platform [example, umbrella, DDD] CivilCode's Elixir reference application and development guides
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
 https://github.com/crossfield/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
