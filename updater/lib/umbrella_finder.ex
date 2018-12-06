@@ -10,6 +10,7 @@ defmodule UmbrellaFinder do
     |> Enum.filter(fn x -> String.contains?(x, "/apps") end)
     |> Enum.map(fn x -> x |> String.split("/apps/") |> Enum.at(0) end)
     |> Enum.uniq()
+    |> Enum.map(fn(x)-> String.replace(x, srcfolder() <> "/", "") end)
   end
 
   def all_mix_exs do
