@@ -34,7 +34,7 @@ defmodule Updater.ReadmeHandler do
     pattern = Regex.compile!("(?s)<!-- UMBRELLAS_LIST -->(.*)<!-- /UMBRELLAS_LIST -->")
     regexStart = "<!-- UMBRELLAS_LIST -->"
     regexEnd = "<!-- /UMBRELLAS_LIST -->"
-    block = umbrellas |> Enum.map(fn(x)-> "- #{x}" end) |> Enum.join("\n")
+    block = umbrellas |> Enum.map(fn(x)-> "- #{x |> Updater.MarktdownFormatter.md_link()}" end) |> Enum.join("\n")
     block = regexStart <> "\n" <> block <> "\n" <> regexEnd
     Regex.replace(pattern, content, block)
   end
@@ -105,12 +105,16 @@ defmodule Updater.MarktdownFormatter do
     } commits / #{stats.stars} stars )"
   end
 
-  def md_link(stats) do
-    "[#{short_url(stats)}](#{stats.repo})"
+  def md_link(%{repo: repo}) do
+    "[#{short_url(repo)}](#{repo})"
   end
 
-  def short_url(stats) do
-    stats |> Map.get(:repo) |> String.replace("https://github.com/", "")
+  def md_link(repo) when is_binary(repo) do
+    "[#{short_url(repo)}](#{repo})"
+  end
+
+  def short_url(repo) do
+    repo |> String.replace("https://github.com/", "")
   end
 
   def lastcommit_short(stats) do

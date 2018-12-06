@@ -20,20 +20,20 @@ $ make umbrellas
 
 ### Umbrellas
 <!-- UMBRELLAS_LIST -->
-- github.com/almightycouch/gitgud
-- github.com/aviabird/snitch
-- github.com/aviacommerce/avia
-- github.com/buddygg/buddy_matching
-- github.com/captainfact/captain-fact-api
-- github.com/edenlabllc/ehealth.api
-- github.com/elixirseattle/tanx
-- github.com/emcasa/backend
-- github.com/joaquimadraz/opensubs.io
-- github.com/omisego/elixir-omg
-- github.com/omisego/ewallet
-- github.com/simplabs/breethe-server
-- github.com/statuspal/statuspal
-- github.com/wallaroolabs/wallaroo/monitoring_hub
+- [github.com/almightycouch/gitgud](github.com/almightycouch/gitgud)
+- [github.com/aviabird/snitch](github.com/aviabird/snitch)
+- [github.com/aviacommerce/avia](github.com/aviacommerce/avia)
+- [github.com/buddygg/buddy_matching](github.com/buddygg/buddy_matching)
+- [github.com/captainfact/captain-fact-api](github.com/captainfact/captain-fact-api)
+- [github.com/edenlabllc/ehealth.api](github.com/edenlabllc/ehealth.api)
+- [github.com/elixirseattle/tanx](github.com/elixirseattle/tanx)
+- [github.com/emcasa/backend](github.com/emcasa/backend)
+- [github.com/joaquimadraz/opensubs.io](github.com/joaquimadraz/opensubs.io)
+- [github.com/omisego/elixir-omg](github.com/omisego/elixir-omg)
+- [github.com/omisego/ewallet](github.com/omisego/ewallet)
+- [github.com/simplabs/breethe-server](github.com/simplabs/breethe-server)
+- [github.com/statuspal/statuspal](github.com/statuspal/statuspal)
+- [github.com/wallaroolabs/wallaroo/monitoring_hub](github.com/wallaroolabs/wallaroo/monitoring_hub)
 <!-- /UMBRELLAS_LIST -->
 
 ### Navigation
