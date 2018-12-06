@@ -12,7 +12,11 @@ Found here:
 ```bash
 $ make update
 ```
+## Showing all umbrella projects
 
+```bash
+$ make umbrellas
+```
 
 ### Navigation
 
