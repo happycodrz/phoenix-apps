@@ -93,4 +93,5 @@ https://github.com/usecanvas/api-v2 [realworld, realtime] This is the Canvas API
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
+https://github.com/zooniverse/designator [realworld] Smart subject selector (used to be called CellectEx)
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
