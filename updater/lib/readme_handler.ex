@@ -34,7 +34,7 @@ defmodule Updater.ReadmeHandler do
     pattern = Regex.compile!("(?s)<!-- UMBRELLAS_LIST -->(.*)<!-- /UMBRELLAS_LIST -->")
     regexStart = "<!-- UMBRELLAS_LIST -->"
     regexEnd = "<!-- /UMBRELLAS_LIST -->"
-    block = umbrellas |> Enum.map(fn(x)-> "- #{x |> Updater.MarktdownFormatter.md_link()}" end) |> Enum.join("\n")
+    block = umbrellas |> Enum.map(fn(x)-> "- #{("https://" <> x) |> Updater.MarktdownFormatter.md_link()}" end) |> Enum.join("\n")
     block = regexStart <> "\n" <> block <> "\n" <> regexEnd
     Regex.replace(pattern, content, block)
   end

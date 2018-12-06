@@ -20,20 +20,20 @@ $ make umbrellas
 
 ### Umbrellas
 <!-- UMBRELLAS_LIST -->
-- [github.com/almightycouch/gitgud](github.com/almightycouch/gitgud)
-- [github.com/aviabird/snitch](github.com/aviabird/snitch)
-- [github.com/aviacommerce/avia](github.com/aviacommerce/avia)
-- [github.com/buddygg/buddy_matching](github.com/buddygg/buddy_matching)
-- [github.com/captainfact/captain-fact-api](github.com/captainfact/captain-fact-api)
-- [github.com/edenlabllc/ehealth.api](github.com/edenlabllc/ehealth.api)
-- [github.com/elixirseattle/tanx](github.com/elixirseattle/tanx)
-- [github.com/emcasa/backend](github.com/emcasa/backend)
-- [github.com/joaquimadraz/opensubs.io](github.com/joaquimadraz/opensubs.io)
-- [github.com/omisego/elixir-omg](github.com/omisego/elixir-omg)
-- [github.com/omisego/ewallet](github.com/omisego/ewallet)
-- [github.com/simplabs/breethe-server](github.com/simplabs/breethe-server)
-- [github.com/statuspal/statuspal](github.com/statuspal/statuspal)
-- [github.com/wallaroolabs/wallaroo/monitoring_hub](github.com/wallaroolabs/wallaroo/monitoring_hub)
+- [almightycouch/gitgud](https://github.com/almightycouch/gitgud)
+- [aviabird/snitch](https://github.com/aviabird/snitch)
+- [aviacommerce/avia](https://github.com/aviacommerce/avia)
+- [buddygg/buddy_matching](https://github.com/buddygg/buddy_matching)
+- [captainfact/captain-fact-api](https://github.com/captainfact/captain-fact-api)
+- [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api)
+- [elixirseattle/tanx](https://github.com/elixirseattle/tanx)
+- [emcasa/backend](https://github.com/emcasa/backend)
+- [joaquimadraz/opensubs.io](https://github.com/joaquimadraz/opensubs.io)
+- [omisego/elixir-omg](https://github.com/omisego/elixir-omg)
+- [omisego/ewallet](https://github.com/omisego/ewallet)
+- [simplabs/breethe-server](https://github.com/simplabs/breethe-server)
+- [statuspal/statuspal](https://github.com/statuspal/statuspal)
+- [wallaroolabs/wallaroo/monitoring_hub](https://github.com/wallaroolabs/wallaroo/monitoring_hub)
 <!-- /UMBRELLAS_LIST -->
 
 ### Navigation
