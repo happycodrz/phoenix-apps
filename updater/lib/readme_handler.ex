@@ -24,7 +24,7 @@ defmodule Updater.ReadmeHandler do
   end
 
   def replace_projects(projects, content) do
-    projects = Enum.sort_by(projects, fn(x)-> x.repo end)
+    projects = Enum.sort_by(projects, fn x -> x.repo end)
     pattern = Regex.compile!("(?s)<!-- PROJECTS_LIST -->(.*)<!-- /PROJECTS_LIST -->")
     regexStart = "<!-- PROJECTS_LIST -->"
     regexEnd = "<!-- /PROJECTS_LIST -->"
@@ -34,7 +34,7 @@ defmodule Updater.ReadmeHandler do
   end
 
   def replace_commitcount(projects, content) do
-    projects = Enum.sort_by(projects, fn(x)-> x.commitscount end) |> Enum.reverse()
+    projects = Enum.sort_by(projects, fn x -> x.commitscount end) |> Enum.reverse()
     pattern = Regex.compile!("(?s)<!-- COMMITCOUNT_LIST -->(.*)<!-- /COMMITCOUNT_LIST -->")
     regexStart = "<!-- COMMITCOUNT_LIST -->"
     regexEnd = "<!-- /COMMITCOUNT_LIST -->"
@@ -44,7 +44,7 @@ defmodule Updater.ReadmeHandler do
   end
 
   def replace_activity(projects, content) do
-    projects = Enum.sort_by(projects, fn(x)-> x.lastcommit end) |> Enum.reverse
+    projects = Enum.sort_by(projects, fn x -> x.lastcommit end) |> Enum.reverse()
     pattern = Regex.compile!("(?s)<!-- ACTIVITY_LIST -->(.*)<!-- /ACTIVITY_LIST -->")
     regexStart = "<!-- ACTIVITY_LIST -->"
     regexEnd = "<!-- /ACTIVITY_LIST -->"
@@ -54,7 +54,7 @@ defmodule Updater.ReadmeHandler do
   end
 
   def replace_popularity(projects, content) do
-    projects = Enum.sort_by(projects, fn(x)-> x.stars end) |> Enum.reverse
+    projects = Enum.sort_by(projects, fn x -> x.stars end) |> Enum.reverse()
     pattern = Regex.compile!("(?s)<!-- POPULARITY_LIST -->(.*)<!-- /POPULARITY_LIST -->")
     regexStart = "<!-- POPULARITY_LIST -->"
     regexEnd = "<!-- /POPULARITY_LIST -->"
@@ -72,15 +72,15 @@ defmodule Updater.MarktdownFormatter do
   end
 
   def popularity(stats) do
-    "- #{md_link(stats)} - #{stats.description} <br/> (#{stats.stars} stars / #{lastcommit_short(stats)} / #{
-      stats.commitscount
-    } commits )"
+    "- #{md_link(stats)} - #{stats.description} <br/> (#{stats.stars} stars / #{
+      lastcommit_short(stats)
+    } / #{stats.commitscount} commits )"
   end
 
   def commitcount(stats) do
-    "- #{md_link(stats)} - #{stats.description} <br/> (#{
-      stats.commitscount
-    } commits / #{stats.stars} stars / #{lastcommit_short(stats)} )"
+    "- #{md_link(stats)} - #{stats.description} <br/> (#{stats.commitscount} commits / #{
+      stats.stars
+    } stars / #{lastcommit_short(stats)} )"
   end
 
   def project(stats) do

@@ -1,11 +1,13 @@
 defmodule Updater do
   alias Updater.{Parallel, DataParser, Git}
+
   def run do
-    data = DataParser.parse
+    data = DataParser.parse()
     cwd = System.cwd()
+
     try do
       File.cd("../")
-      data |> Parallel.run(20, fn({url, _tags, _description})-> update(url) end)
+      data |> Parallel.run(20, fn {url, _tags, _description} -> update(url) end)
     after
       File.cd(cwd)
     end

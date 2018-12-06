@@ -2,7 +2,6 @@ defmodule Updater.ReadmeHandlerTest do
   use ExUnit.Case
   alias Updater.{ReadmeHandler, MarktdownFormatter}
 
-
   describe "ReadmeHandler" do
     def projects do
       [
@@ -36,7 +35,6 @@ defmodule Updater.ReadmeHandlerTest do
     end
   end
 
-
   describe "MarktdownFormatter" do
     def stats() do
       %{
@@ -50,7 +48,7 @@ defmodule Updater.ReadmeHandlerTest do
 
     test "activity formatting" do
       assert MarktdownFormatter.activity(stats()) ==
-               "- [rails/rails](https://github.com/rails/rails): 2018-06-20  <br/>  Ruby on Rails"
+               "- [rails/rails](https://github.com/rails/rails) - Ruby on Rails <br/> ( 2018-06-20 / 69222 commits / 39960 stars )"
     end
 
     test "project formatting" do

@@ -4,8 +4,13 @@ defmodule Updater.DataParserTest do
 
   describe ".parse_line" do
     test "without tags" do
-      res = DataParser.parse_line("https://github.com/boilercoding/crm [] Contact Management made with Elixir")
-      assert res == {"https://github.com/boilercoding/crm", [], "Contact Management made with Elixir"}
+      res =
+        DataParser.parse_line(
+          "https://github.com/boilercoding/crm [] Contact Management made with Elixir"
+        )
+
+      assert res ==
+               {"https://github.com/boilercoding/crm", [], "Contact Management made with Elixir"}
     end
 
     test "without tags / description" do
@@ -24,8 +29,13 @@ defmodule Updater.DataParserTest do
     end
 
     test "allows tags with some info" do
-      res = DataParser.parse_line("https://github.com/boilercoding/crm [quality:4 crm, saas, nice stuff]")
-      assert res == {"https://github.com/boilercoding/crm", ["nicestuff", "quality:4crm", "saas"], ""}
+      res =
+        DataParser.parse_line(
+          "https://github.com/boilercoding/crm [quality:4 crm, saas, nice stuff]"
+        )
+
+      assert res ==
+               {"https://github.com/boilercoding/crm", ["nicestuff", "quality:4crm", "saas"], ""}
     end
   end
 end

@@ -7,7 +7,7 @@ defmodule Updater.DataParser do
     File.read!(file)
     |> String.split("\n")
     |> Enum.map(&String.trim/1)
-    |> Enum.reject(fn(x)-> x == "" end)
+    |> Enum.reject(fn x -> x == "" end)
     |> Enum.map(&parse_line/1)
   end
 
@@ -21,8 +21,16 @@ defmodule Updater.DataParser do
   def parse_line_with_tags(line) do
     [url, tags_and_description] = line |> String.split(" [")
 
-    [tags_string, description]  = tags_and_description |> String.split("]",  parts: 2)
-    tags = tags_string |> String.replace("]", "") |> String.replace(" ", "") |> String.split(",") |> Enum.reject(fn(x)-> x == "" end) |> Enum.sort
+    [tags_string, description] = tags_and_description |> String.split("]", parts: 2)
+
+    tags =
+      tags_string
+      |> String.replace("]", "")
+      |> String.replace(" ", "")
+      |> String.split(",")
+      |> Enum.reject(fn x -> x == "" end)
+      |> Enum.sort()
+
     description = description |> String.trim()
     url = url |> String.trim()
     {url, tags, description}

@@ -4,7 +4,6 @@ defmodule Updater.CrawlerTest do
   use ExUnit.Case
   doctest Crawler
 
-
   setup do
     case :ets.info(:fixture_cache) do
       :undefined -> :ets.new(:fixture_cache, [:named_table])
@@ -16,7 +15,9 @@ defmodule Updater.CrawlerTest do
 
   def fixture(file) do
     case :ets.lookup(:fixture_cache, file) do
-      [{^file, content}] -> {:ok, content}
+      [{^file, content}] ->
+        {:ok, content}
+
       [] ->
         content = "test/fixtures/#{file}" |> File.read!() |> Floki.parse()
         :ets.insert(:fixture_cache, {file, content})
@@ -40,12 +41,12 @@ defmodule Updater.CrawlerTest do
   end
 
   test "stars" do
-    {:ok, body}  = fixture("rails.html")
+    {:ok, body} = fixture("rails.html")
     assert Crawler.stars(body) == 39960
   end
 
   test "stats" do
-    {:ok, body}  = fixture("rails.html")
+    {:ok, body} = fixture("rails.html")
     mock(Tesla, [get: 1], {:ok, %{body: body, status: 200}})
 
     expected = %{
