@@ -5,6 +5,8 @@ https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Depl
 https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
 https://github.com/andersju/webbkoll [] An online tool that checks how a website is doing with regards to privacy.
 https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
+https://github.com/astarte-platform/astarte_data_updater_plant [casandra] Astarte platform data updater service. Receives data, stores them to a Cassandra database and sends events to AMQP exchanges. http://astarte-platform.org/
+https://github.com/astarte-platform/astarte_rpc [rpc, protobuf] Astarte platform RPC protocol buffers and Elixir AMQP clients.
 https://github.com/audioslides/audioslides.io [] Use Amazon Polly, Google Slides and FFMpeg to create videos that can be updated at anytime by anyone. This project is written in Elixir. https://audioslides.io/
 https://github.com/aviacommerce/avia [ecommerce, umbrella] E-Commerce re-invented in Elixir
 https://github.com/axelclark/ex338 [size:4] Web application to manage the 338 Challenge fantasy sports league https://the338challenge.herokuapp.com
@@ -23,7 +25,6 @@ https://github.com/cesium/safira [api, heroku] 💎 safira platform (intra 2.0)
 https://github.com/civilcode/acme-platform [example, umbrella, DDD] CivilCode's Elixir reference application and development guides
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
-https://github.com/crossfield/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
 https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. http://www.firestormforum.org
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
@@ -57,11 +58,13 @@ https://github.com/instedd/active-monitoring [coherence] Active Monitoring
 https://github.com/instedd/aida [recurrence, genservers] Artificially Intelligent Digital Assistant
 https://github.com/instedd/surveda  [genservers] InSTEDD Ask
 https://github.com/ironbay/kora [graphql, realtime, cqrs] Modern NoSQL + Graph database that facilitates real-time data syncing between online or offline devices and servers. Eliminates the need for API servers between database and client
+https://github.com/jchristgit/bolt [realworld, bot] A Discord guild moderation bot for managing large servers.
 https://github.com/joaquimadraz/opensubs.io [] 💸 Track recurring bills and subscriptions
 https://github.com/johndavedecano/CoderJobs [size:2, quality:2] A job board application built using Elixir and Phoenix Framework.
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
 https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our spending
+https://github.com/maxim/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
 https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
 https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybrid game networking and web API server, focused on Social Mixed Reality)
@@ -94,4 +97,5 @@ https://github.com/valo/melodica-inventory [] The inventory system for biggest B
 https://github.com/vutuv/vutuv [realworld, saas] vutuv is a social network service to host and share information about humans and organizations.
 https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https://github.com/WallarooLabs/wallaroo/tree/master/monitoring_hub
 https://github.com/zooniverse/designator [realworld] Smart subject selector (used to be called CellectEx)
+https://github.com/zven21/mipha [forum] Proj Elixir Forum build with phoenix 1.4 https://elixir-mipha.herokuapp.com/
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
