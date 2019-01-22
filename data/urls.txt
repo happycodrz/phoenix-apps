@@ -39,6 +39,7 @@ https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integr
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
 https://github.com/edgurgel/httparrot [] HTTP Request & Response Server. An incomplete clone of http://httpbin.org http://httparrot.herokuapp.com
 https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming Elixir study group
+https://github.com/ellie-app/ellie [realworld, elm] The Elm Live Editor https://ellie-app.com
 https://github.com/emadb/rovex [game, websockets] A multi mars rover implementation in Elixir. http://rovex.herokuapp.com
 https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
