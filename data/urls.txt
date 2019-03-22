@@ -66,6 +66,7 @@ https://github.com/johndavedecano/CoderJobs [size:2, quality:2] A job board appl
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
 https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our spending
+https://github.com/Logflare/logflare [realtime, realworld] Tail -f your Cloudflare logs! https://logflare.app
 https://github.com/maxim/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/mbta/api [realworld, umbrella] V3 MBTA API https://api-v3.mbta.com/ - Massachusetts Bay Transportation Authority API v3
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
