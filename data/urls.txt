@@ -30,6 +30,7 @@ https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine,
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
 https://github.com/danhper/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
 https://github.com/digitalnatives/course_planner [quality:5, realworld] An application to manage educational courses
+https://github.com/djthread/lucidboard [liveview] A kanban tool
 https://github.com/dreamingechoes/diversity-in-tech [] Phoenix application to rate tech companies according to how diverse friendly they are.
 https://github.com/dreamingechoes/retrospectivex [] Phoenix application to create retrospective boards.
 https://github.com/dwyl/bestevidence [] City, University of London BestEvidence app http://bestevidence.info/
@@ -104,5 +105,4 @@ https://github.com/WallarooLabs/wallaroo [websockets, genservers] found in https
 https://github.com/zooniverse/designator [realworld] Smart subject selector (used to be called CellectEx)
 https://github.com/zven21/mipha [forum] Proj Elixir Forum build with phoenix 1.4 https://elixir-mipha.herokuapp.com/
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
-https://gitlab.com/stressgrid/stressgrid [benchmarking] Stressgrid is a software for load testing at the scale of millions of simulated users. 
-https://github.com/djthread/lucidboard [liveview] A kanban tool 
+https://gitlab.com/stressgrid/stressgrid [benchmarking] Stressgrid is a software for load testing at the scale of millions of simulated users.
