@@ -105,3 +105,4 @@ https://github.com/zooniverse/designator [realworld] Smart subject selector (use
 https://github.com/zven21/mipha [forum] Proj Elixir Forum build with phoenix 1.4 https://elixir-mipha.herokuapp.com/
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
 https://gitlab.com/stressgrid/stressgrid [benchmarking] Stressgrid is a software for load testing at the scale of millions of simulated users. 
+https://github.com/djthread/lucidboard [liveview] A kanban tool 
