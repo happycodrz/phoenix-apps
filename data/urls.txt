@@ -81,7 +81,6 @@ https://github.com/omisego/elixir-omg [realworld, umbrella, rpc-api] The elixir-
 https://github.com/omisego/ewallet [realworld, umbrella, rpc-api] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
 https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
-https://github.com/Prabandham/excms [cms] This is a tailored CMS application to fit to the needs of Larks.
 https://github.com/puemos/riso [] Riso - An open source developers recruiting tool
 https://github.com/ResiliaDev/Planga [saas, realworld] Planga: Seamless Instant Chat Service https://planga.io
 https://github.com/revelrylabs/incentivize [saas, realword] Software Development Incentive Platform http://incentivize.io
