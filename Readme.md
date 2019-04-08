@@ -25,6 +25,7 @@ $ make umbrellas
 - [aviacommerce/avia](https://github.com/aviacommerce/avia)
 - [buddygg/buddy_matching](https://github.com/buddygg/buddy_matching)
 - [captainfact/captain-fact-api](https://github.com/captainfact/captain-fact-api)
+- [civilcode/acme-ex](https://github.com/civilcode/acme-ex)
 - [civilcode/acme-platform](https://github.com/civilcode/acme-platform)
 - [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api)
 - [elixirseattle/tanx](https://github.com/elixirseattle/tanx)
