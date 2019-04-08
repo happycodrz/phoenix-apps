@@ -9,31 +9,39 @@ defmodule Updater.Crawler do
   end
 
   def github_stats(repo) do
-    {:ok, response} = Github.get(repo)
+    IO.puts "getting #{repo}"
 
-    body =
-      cond do
-        response.status == 404 ->
-          ""
+    with {:ok, response} <- Github.get(repo) do
+      body =
+        cond do
+          response.status == 404 ->
+            IO.puts "REPO not found! #{repo}"
+            raise "FUCK"
+            ""
 
-        response.status == 301 ->
-          IO.puts("**** MOVED #{repo}")
-          raise ""
+          response.status == 301 ->
+            IO.puts("**** MOVED #{repo}")
+            raise ""
 
-        is_binary(response.body) ->
-          response.body |> Floki.parse()
+          is_binary(response.body) ->
+            response.body |> Floki.parse()
 
-        true ->
-          response.body
-      end
+          true ->
+            response.body
+        end
 
-    %{
-      repo: repo,
-      description: description(body),
-      lastcommit: lastcommit(body),
-      commitscount: commitscount(body),
-      stars: stars(body)
-    }
+      %{
+        repo: repo,
+        description: description(body),
+        lastcommit: lastcommit(body),
+        commitscount: commitscount(body),
+        stars: stars(body)
+      }
+    else
+      a ->
+        IO.puts "NOT FOUND #{repo}!"
+        exit(1)
+    end
   end
 
   def generic_default_stats(repo) do
