@@ -8,6 +8,7 @@ defmodule Updater.DataParser do
     |> String.split("\n")
     |> Enum.map(&String.trim/1)
     |> Enum.reject(fn x -> x == "" end)
+    |> Enum.reject(fn x -> Regex.match?(~r/^\#/, x) end)
     |> Enum.map(&parse_line/1)
   end
 
