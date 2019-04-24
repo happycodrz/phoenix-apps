@@ -1,3 +1,4 @@
+## https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
 https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
 https://github.com/access-company/antikythera [paas, faas, realworld] Elixir framework to build your own in-house PaaS
 https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. https://peergym.herokuapp.com/
@@ -24,7 +25,6 @@ https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+
 https://github.com/cesium/safira [api, heroku] 💎 safira platform (intra 2.0)
 https://github.com/civilcode/acme-ex [example, umbrella, DDD] CivilCode's Elixir reference application and development guides
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
-https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
 https://github.com/dailydrip/firestorm [forum, elm] An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. http://www.firestormforum.org
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
