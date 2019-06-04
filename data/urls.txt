@@ -47,7 +47,6 @@ https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et 
 https://github.com/eteubert/open_adventure_capitalist [liveview, tailwindcss, game, realtime] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
 https://github.com/Eve-of-Darkness/eve-of-darkness [] Dark Age of Camelot Server http://www.eveofdarkness.org/
 https://github.com/evercam/evercam-server [api] Cloud CCTV Server (Phoenix) https://media.evercam.io/
-https://github.com/framasoft/mobilizon [] Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool. https://joinmobilizon.org
 https://github.com/framasoft/mobilizon [saas, distributed] Mobilizon aims to be (much) more than a decentralized and federated Meetup-clone.
 https://github.com/fremantle-capital/tai [bot, trading, genservers] A trading toolkit built with Elixir that runs on the Erlang virtual machine
 https://github.com/freshcom/freshcom-api [ecommerce, big, realworld] Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix https://docs.freshcom.io/
