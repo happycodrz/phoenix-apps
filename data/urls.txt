@@ -52,6 +52,7 @@ https://github.com/fremantle-capital/tai [bot, trading, genservers] A trading to
 https://github.com/freshcom/freshcom-api [ecommerce, big, realworld] Freshcom API is an intuitive, developer friendly and highly scalable eCommerce backend built using Elixir & Phoenix https://docs.freshcom.io/
 https://github.com/GBH/loaded.bike [] Phoenix/Elixir web app for exploring and sharing bicycle touring routes http://loaded.bike
 https://github.com/gitcoinco/codefund [advertising, saas, realworld] CodeFund.io (formerly Code Sponsor) https://codefund.io
+https://github.com/HackerExperience/Helix [realworld, mustsee] Helix is the backend powering the game Hacker Experience 2.
 https://github.com/hashrocket/tilex [realworld, pjax] Today I Learned in Elixir https://til.hashrocket.com
 https://github.com/healthlocker/healthlocker [realworld, size:5] Inspire and motivate people to stay well. https://www.healthlocker.uk
 https://github.com/hexlet-codebattle/codebattle [realworld] Codebattle game http://codebattle.hexlet.io/
@@ -106,4 +107,3 @@ https://github.com/zooniverse/designator [realworld] Smart subject selector (use
 https://github.com/zven21/mipha [forum] Proj Elixir Forum build with phoenix 1.4 https://elixir-mipha.herokuapp.com/
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
 https://gitlab.com/stressgrid/stressgrid [benchmarking] Stressgrid is a software for load testing at the scale of millions of simulated users.
-https://github.com/HackerExperience/Helix [realworld, mustsee] Helix is the backend powering the game Hacker Experience 2.
