@@ -36,9 +36,9 @@ https://github.com/dreamingechoes/retrospectivex [] Phoenix application to creat
 https://github.com/dwyl/bestevidence [] City, University of London BestEvidence app http://bestevidence.info/
 https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration] 🔐 A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types
 https://github.com/edance/squeeze [api] 🍊🏃 Track Runs and Workouts with Strava
-https://github.com/edenlabllc/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
 https://github.com/edgurgel/httparrot [] HTTP Request & Response Server. An incomplete clone of http://httpbin.org http://httparrot.herokuapp.com
+https://github.com/ehealth-ua/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
 https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming Elixir study group
 https://github.com/ellie-app/ellie [realworld, elm] The Elm Live Editor https://ellie-app.com
 https://github.com/emadb/rovex [game, websockets] A multi mars rover implementation in Elixir. http://rovex.herokuapp.com
@@ -67,15 +67,15 @@ https://github.com/joaquimadraz/opensubs.io [] 💸 Track recurring bills and su
 https://github.com/johndavedecano/CoderJobs [size:2, quality:2] A job board application built using Elixir and Phoenix Framework.
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
-https://github.com/LittleKidogo/spender [api] Some automated forms to aid in our spending
+https://github.com/LittleKidogo/mula_spender [api] Some automated forms to aid in our spending
 https://github.com/Logflare/logflare [realtime, realworld] Tail -f your Cloudflare logs! https://logflare.app
 https://github.com/maxim/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/mbta/api [realworld, umbrella] V3 MBTA API https://api-v3.mbta.com/ - Massachusetts Bay Transportation Authority API v3
+https://github.com/MehdiBeddiaf/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
 https://github.com/mirego/accent [] Open-source, self-hosted, developer-oriented translation tool
 https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybrid game networking and web API server, focused on Social Mixed Reality)
 https://github.com/Nagasaki45/krihelinator [] "Trendiness of open source software should be assessed by contribution rate, not by stars" - Meir Kriheli http://krihelinator.xyz/
-https://github.com/Ninjarab/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
 https://github.com/obudget/core [] Open Budget Core: An open source envelope budgeting platform https://api.openbudget.xyz/api
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
 https://github.com/omisego/elixir-omg [realworld, umbrella, rpc-api] The elixir-omg repository contains OmiseGO's Elixir implementation of Plasma and forms the basis for the OMG Network.
@@ -89,7 +89,7 @@ https://github.com/RichMorin/PA_all [realworld, umbrella] Code and Data files fo
 https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
 https://github.com/rrrene/elixirstatus-web [realworld] Community site for Elixir project/blog post/version updates http://elixirstatus.com
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
-https://github.com/sb8244/okr_app_pub [realworld] Public snapshot of OKR App
+https://github.com/sb8244/okr_app_pub [realworld] Public snapshot of OKR App, more info: https://stephenbussey.com/2019/05/10/useful-elixir-patterns-from-real-world-side-project.html
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
 https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
