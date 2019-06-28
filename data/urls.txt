@@ -89,6 +89,7 @@ https://github.com/RichMorin/PA_all [realworld, umbrella] Code and Data files fo
 https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
 https://github.com/rrrene/elixirstatus-web [realworld] Community site for Elixir project/blog post/version updates http://elixirstatus.com
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
+https://github.com/sb8244/okr_app_pub [realworld] Public snapshot of OKR App
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
 https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
