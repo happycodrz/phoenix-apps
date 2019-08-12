@@ -69,6 +69,7 @@ https://github.com/kenforthewin/mentat [chat, security] scalable group chat with
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
 https://github.com/LittleKidogo/mula_spender [api] Some automated forms to aid in our spending
 https://github.com/Logflare/logflare [realtime, realworld] Tail -f your Cloudflare logs! https://logflare.app
+https://github.com/loomnetwork/blockscout [umbrella, blockchain] Fork for Loom Dappchains, it has additional compatiblity with Plasmachain and other Loom SDK based chains. 
 https://github.com/maxim/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/mbta/api [realworld, umbrella] V3 MBTA API https://api-v3.mbta.com/ - Massachusetts Bay Transportation Authority API v3
 https://github.com/MehdiBeddiaf/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
@@ -90,6 +91,7 @@ https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist htt
 https://github.com/rrrene/elixirstatus-web [realworld] Community site for Elixir project/blog post/version updates http://elixirstatus.com
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
 https://github.com/sb8244/okr_app_pub [realworld] Public snapshot of OKR App, more info: https://stephenbussey.com/2019/05/10/useful-elixir-patterns-from-real-world-side-project.html
+https://github.com/sep/planet_ex [tailwindcss] 📚 Blog aggregator
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
 https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
@@ -108,4 +110,3 @@ https://github.com/zooniverse/designator [realworld] Smart subject selector (use
 https://github.com/zven21/mipha [forum] Proj Elixir Forum build with phoenix 1.4 https://elixir-mipha.herokuapp.com/
 https://gitlab.com/code-stats/code-stats [saas, realworld, redom] Code::Stats website repository
 https://gitlab.com/stressgrid/stressgrid [benchmarking] Stressgrid is a software for load testing at the scale of millions of simulated users.
-https://github.com/sep/planet_ex [tailwindcss] 📚 Blog aggregator
