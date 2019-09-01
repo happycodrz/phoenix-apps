@@ -5,6 +5,7 @@ https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness 
 https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
 https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
 https://github.com/andersju/webbkoll [] An online tool that checks how a website is doing with regards to privacy.
+https://github.com/andyl/crow [] Cron-like Workflow
 https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
 https://github.com/astarte-platform/astarte_data_updater_plant [casandra] Astarte platform data updater service. Receives data, stores them to a Cassandra database and sends events to AMQP exchanges. http://astarte-platform.org/
 https://github.com/astarte-platform/astarte_rpc [rpc, protobuf] Astarte platform RPC protocol buffers and Elixir AMQP clients.
@@ -69,7 +70,7 @@ https://github.com/kenforthewin/mentat [chat, security] scalable group chat with
 https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
 https://github.com/LittleKidogo/mula_spender [api] Some automated forms to aid in our spending
 https://github.com/Logflare/logflare [realtime, realworld] Tail -f your Cloudflare logs! https://logflare.app
-https://github.com/loomnetwork/blockscout [umbrella, blockchain] Fork for Loom Dappchains, it has additional compatiblity with Plasmachain and other Loom SDK based chains. 
+https://github.com/loomnetwork/blockscout [umbrella, blockchain] Fork for Loom Dappchains, it has additional compatiblity with Plasmachain and other Loom SDK based chains.
 https://github.com/maxim/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/mbta/api [realworld, umbrella] V3 MBTA API https://api-v3.mbta.com/ - Massachusetts Bay Transportation Authority API v3
 https://github.com/MehdiBeddiaf/hydra [] Hydra is a free tool for predicting stock prices using technical analysis
