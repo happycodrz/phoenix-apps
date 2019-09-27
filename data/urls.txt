@@ -5,7 +5,6 @@ https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness 
 https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
 https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
 https://github.com/andersju/webbkoll [] An online tool that checks how a website is doing with regards to privacy.
-https://github.com/andyl/crow [] Cron-like Workflow
 https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
 https://github.com/astarte-platform/astarte_data_updater_plant [casandra] Astarte platform data updater service. Receives data, stores them to a Cassandra database and sends events to AMQP exchanges. http://astarte-platform.org/
 https://github.com/astarte-platform/astarte_rpc [rpc, protobuf] Astarte platform RPC protocol buffers and Elixir AMQP clients.
@@ -43,7 +42,6 @@ https://github.com/ehealth-ua/ehealth.api [api, realworld] Index page and integr
 https://github.com/ElixirSeattle/tanx [] Tank game created by the Programming Elixir study group
 https://github.com/ellie-app/ellie [realworld, elm] The Elm Live Editor https://ellie-app.com
 https://github.com/emadb/rovex [game, websockets] A multi mars rover implementation in Elixir. http://rovex.herokuapp.com
-https://github.com/emcasa/backend [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/etalab/transport-site [cqrs] Rendre disponible, valoriser et améliorer les données transports
 https://github.com/eteubert/open_adventure_capitalist [liveview, tailwindcss, game, realtime] A Phoenix LiveView experiment. Simple implementation of Adventure Capitalist.
 https://github.com/Eve-of-Darkness/eve-of-darkness [] Dark Age of Camelot Server http://www.eveofdarkness.org/
@@ -67,7 +65,6 @@ https://github.com/jchristgit/bolt [realworld, bot] A Discord guild moderation b
 https://github.com/joaquimadraz/opensubs.io [] 💸 Track recurring bills and subscriptions
 https://github.com/johndavedecano/CoderJobs [size:2, quality:2] A job board application built using Elixir and Phoenix Framework.
 https://github.com/kenforthewin/mentat [chat, security] scalable group chat with tags and pretty good privacy.
-https://github.com/levelhq/level [graphql] Distraction-free communication for software teams
 https://github.com/LittleKidogo/mula_spender [api] Some automated forms to aid in our spending
 https://github.com/Logflare/logflare [realtime, realworld] Tail -f your Cloudflare logs! https://logflare.app
 https://github.com/loomnetwork/blockscout [umbrella, blockchain] Fork for Loom Dappchains, it has additional compatiblity with Plasmachain and other Loom SDK based chains.
@@ -91,6 +88,7 @@ https://github.com/revelrylabs/incentivize [saas, realword] Software Development
 https://github.com/RichMorin/PA_all [realworld, umbrella] Code and Data files for Pete's Alley
 https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
 https://github.com/rrrene/elixirstatus-web [realworld] Community site for Elixir project/blog post/version updates http://elixirstatus.com
+https://github.com/ruby2elixir/emcasa-backend/ [realworld, housing, elasticsearch] EmCasa Backend https://www.emcasa.com
 https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The source code of the Sanbase application in Santiment LLC https://sanbase-low.santiment.net
 https://github.com/sb8244/okr_app_pub [realworld] Public snapshot of OKR App, more info: https://stephenbussey.com/2019/05/10/useful-elixir-patterns-from-real-world-side-project.html
 https://github.com/sep/planet_ex [tailwindcss] 📚 Blog aggregator
@@ -103,6 +101,7 @@ https://github.com/straw-hat-team/straw_hat_review [ecto] Review System https://
 https://github.com/thechangelog/changelog.com [pjax, realworld] Hacker to the 💚 https://changelog.com/posts/changelog…
 https://github.com/thoughtbot/community  []  Community is an Elixir/Phoenix app that was designed primarily to run Raleigh Design. Feel free to fork it and use it for your own community!
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
+https://github.com/unstacked/level [graphql] Distraction-free communication for software teams
 https://github.com/UrbanCCD-UChicago/plenario2 [] The Future of Technical Debt
 https://github.com/usecanvas/api-v2 [realworld, realtime] This is the Canvas API, which provides an HTTP interface to Canvas resources, as well as event notifications over WebSockets
 https://github.com/valo/melodica-inventory [] The inventory system for biggest Bulgarian wedding agency
