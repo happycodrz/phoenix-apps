@@ -77,6 +77,8 @@ https://github.com/mozilla/reticulum [] Phoenix web server for Social MR (A hybr
 https://github.com/Nagasaki45/krihelinator [] "Trendiness of open source software should be assessed by contribution rate, not by stars" - Meir Kriheli http://krihelinator.xyz/
 https://github.com/obudget/core [] Open Budget Core: An open source envelope budgeting platform https://api.openbudget.xyz/api
 https://github.com/oestrich/ex_venture [websockets, gameserver, genservers, mud, cluster, resilient, admin]
+https://github.com/oestrich/grapevine [] The MUD Chat Network https://grapevine.haus
+https://github.com/oestrich/spigot [] A telnet test server for Grapevine's web client
 https://github.com/omisego/elixir-omg [realworld, umbrella, rpc-api] The elixir-omg repository contains OmiseGO's Elixir implementation of Plasma and forms the basis for the OMG Network.
 https://github.com/omisego/ewallet [realworld, umbrella, rpc-api] eWallet Backend for the OmiseGO SDKs. https://omisego.network/
 https://github.com/operable/cog  [chatbot, realworld, devops] Bringing the power of the command line to chat
