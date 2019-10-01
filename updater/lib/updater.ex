@@ -3,7 +3,7 @@ defmodule Updater do
 
   def run do
     data = DataParser.parse()
-    cwd = File.cwd()
+    cwd = System.cwd()
 
     try do
       File.cd("../")
