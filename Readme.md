@@ -38,6 +38,7 @@ $ make umbrellas
 - [joaquimadraz/opensubs.io](https://github.com/joaquimadraz/opensubs.io)
 - [loomnetwork/blockscout](https://github.com/loomnetwork/blockscout)
 - [mbta/api](https://github.com/mbta/api)
+- [oestrich/grapevine](https://github.com/oestrich/grapevine)
 - [omisego/elixir-omg](https://github.com/omisego/elixir-omg)
 - [omisego/ewallet](https://github.com/omisego/ewallet)
 - [poanetwork/blockscout](https://github.com/poanetwork/blockscout)
