@@ -42,12 +42,12 @@ $ make umbrellas
 - [omisego/elixir-omg](https://github.com/omisego/elixir-omg)
 - [omisego/ewallet](https://github.com/omisego/ewallet)
 - [poanetwork/blockscout](https://github.com/poanetwork/blockscout)
-- [richmorin/pa_all/PA_elixir/server](https://github.com/richmorin/pa_all/PA_elixir/server)
+- [richmorin/pa_all/tree/master/PA_elixir/server](https://github.com/richmorin/pa_all/tree/master/PA_elixir/server)
 - [ruby2elixir/emcasa-backend](https://github.com/ruby2elixir/emcasa-backend)
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo)
 - [simplabs/breethe-server](https://github.com/simplabs/breethe-server)
 - [statuspal/statuspal](https://github.com/statuspal/statuspal)
-- [wallaroolabs/wallaroo/monitoring_hub](https://github.com/wallaroolabs/wallaroo/monitoring_hub)
+- [wallaroolabs/wallaroo/tree/master/monitoring_hub](https://github.com/wallaroolabs/wallaroo/tree/master/monitoring_hub)
 <!-- /UMBRELLAS_LIST -->
 
 ### Navigation
