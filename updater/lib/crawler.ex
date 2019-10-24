@@ -38,7 +38,7 @@ defmodule Updater.Crawler do
         stars: stars(body)
       }
     else
-      a ->
+      _ ->
         IO.puts("NOT FOUND #{repo}!")
         exit(1)
     end
