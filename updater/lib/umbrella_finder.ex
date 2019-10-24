@@ -3,14 +3,17 @@ defmodule UmbrellaFinder do
   greps the `src` folder for possible umbrella projects
   """
   alias UmbrellaFinder.Cache
+
   def run do
     Cache.start()
+
     all_mix_exs()
     |> Enum.reject(fn x -> String.contains?(x, "deps") end)
     |> Enum.filter(fn x -> String.contains?(x, "/apps") end)
     |> Enum.map(fn x -> x |> String.split("/apps/") |> Enum.at(0) end)
     |> Enum.uniq()
-    |> Enum.map(fn(x)-> String.replace(x, srcfolder() <> "/", "") end)
+    |> Enum.map(fn x -> String.replace(x, srcfolder() <> "/", "") end)
+    |> Enum.map(&adjust_for_proper_github_url/1)
   end
 
   def all_mix_exs do
@@ -25,6 +28,26 @@ defmodule UmbrellaFinder do
 
   defp pattern do
     [srcfolder(), "**", "mix.exs"] |> Enum.join("/")
+  end
+
+  @doc """
+  We inject `tree/master` into path, if is not toplevel
+  Example:
+    https://github.com/RichMorin/PA_all/PA_elixir/server/apps -> https://github.com/RichMorin/PA_all/tree/master/PA_elixir/server/apps
+  """
+  def adjust_for_proper_github_url(path) do
+    if Regex.match?(~r/github\.com/, path) do
+      parts = path |> String.replace("github.com/", "") |> String.split("/")
+
+      if length(parts) == 2 do
+        path
+      else
+        parts = List.insert_at(parts, 2, "tree/master")
+        "github.com/" <> Enum.join(parts, "/")
+      end
+    else
+      path
+    end
   end
 end
 
