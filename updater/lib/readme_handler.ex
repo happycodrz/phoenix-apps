@@ -1,11 +1,10 @@
 defmodule Updater.ReadmeHandler do
-
-
   def replace_umbrellas!(umbrellas) do
     content = File.read!("../Readme.md")
     new_content = replace_umbrellas(umbrellas, content)
     File.write!("../Readme.md", new_content)
   end
+
   def replace_projects!(projects) do
     content = File.read!("../Readme.md")
     new_content = replace_projects(projects, content)
@@ -34,7 +33,12 @@ defmodule Updater.ReadmeHandler do
     pattern = Regex.compile!("(?s)<!-- UMBRELLAS_LIST -->(.*)<!-- /UMBRELLAS_LIST -->")
     regexStart = "<!-- UMBRELLAS_LIST -->"
     regexEnd = "<!-- /UMBRELLAS_LIST -->"
-    block = umbrellas |> Enum.map(fn(x)-> "- #{("https://" <> x) |> Updater.MarktdownFormatter.md_link()}" end) |> Enum.join("\n")
+
+    block =
+      umbrellas
+      |> Enum.map(fn x -> "- #{("https://" <> x) |> Updater.MarktdownFormatter.md_link()}" end)
+      |> Enum.join("\n")
+
     block = regexStart <> "\n" <> block <> "\n" <> regexEnd
     Regex.replace(pattern, content, block)
   end

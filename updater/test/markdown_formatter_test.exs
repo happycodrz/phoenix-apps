@@ -28,6 +28,6 @@ defmodule Updater.MarkdownFormatterTest do
   end
 
   test "short_url" do
-    assert MarktdownFormatter.short_url(stats()|> Map.get(:repo)) == "rails/rails"
+    assert MarktdownFormatter.short_url(stats() |> Map.get(:repo)) == "rails/rails"
   end
 end

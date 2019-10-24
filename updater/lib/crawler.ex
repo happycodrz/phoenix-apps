@@ -9,13 +9,13 @@ defmodule Updater.Crawler do
   end
 
   def github_stats(repo) do
-    IO.puts "getting #{repo}"
+    IO.puts("getting #{repo}")
 
     with {:ok, response} <- Github.get(repo) do
       body =
         cond do
           response.status == 404 ->
-            IO.puts "REPO not found! #{repo}"
+            IO.puts("REPO not found! #{repo}")
             raise "FUCK"
             ""
 
@@ -39,7 +39,7 @@ defmodule Updater.Crawler do
       }
     else
       a ->
-        IO.puts "NOT FOUND #{repo}!"
+        IO.puts("NOT FOUND #{repo}!")
         exit(1)
     end
   end
