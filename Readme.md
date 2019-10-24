@@ -27,11 +27,8 @@ $ make umbrellas
 - [buddygg/buddy_matching](https://github.com/buddygg/buddy_matching)
 - [captainfact/captain-fact-api](https://github.com/captainfact/captain-fact-api)
 - [civilcode/acme-ex](https://github.com/civilcode/acme-ex)
-- [civilcode/acme-platform](https://github.com/civilcode/acme-platform)
-- [edenlabllc/ehealth.api](https://github.com/edenlabllc/ehealth.api)
 - [ehealth-ua/ehealth.api](https://github.com/ehealth-ua/ehealth.api)
 - [elixirseattle/tanx](https://github.com/elixirseattle/tanx)
-- [emcasa/backend](https://github.com/emcasa/backend)
 - [etalab/transport-site](https://github.com/etalab/transport-site)
 - [eve-of-darkness/eve-of-darkness](https://github.com/eve-of-darkness/eve-of-darkness)
 - [fremantle-capital/tai](https://github.com/fremantle-capital/tai)
@@ -41,12 +38,10 @@ $ make umbrellas
 - [omisego/elixir-omg](https://github.com/omisego/elixir-omg)
 - [omisego/ewallet](https://github.com/omisego/ewallet)
 - [poanetwork/blockscout](https://github.com/poanetwork/blockscout)
-- [richmorin/pa_all/PA_elixir/server](https://github.com/richmorin/pa_all/PA_elixir/server)
 - [ruby2elixir/emcasa-backend](https://github.com/ruby2elixir/emcasa-backend)
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo)
 - [simplabs/breethe-server](https://github.com/simplabs/breethe-server)
 - [statuspal/statuspal](https://github.com/statuspal/statuspal)
-- [wallaroolabs/wallaroo/monitoring_hub](https://github.com/wallaroolabs/wallaroo/monitoring_hub)
 <!-- /UMBRELLAS_LIST -->
 
 ### Navigation
