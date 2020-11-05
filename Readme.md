@@ -21,30 +21,26 @@ $ make umbrellas
 ### Umbrellas
 <!-- UMBRELLAS_LIST -->
 - [almightycouch/gitgud](https://github.com/almightycouch/gitgud)
-- [andyl/crow](https://github.com/andyl/crow)
-- [aviabird/snitch](https://github.com/aviabird/snitch)
+- [artemis-platform/artemis_teams](https://github.com/artemis-platform/artemis_teams)
 - [aviacommerce/avia](https://github.com/aviacommerce/avia)
 - [buddygg/buddy_matching](https://github.com/buddygg/buddy_matching)
 - [captainfact/captain-fact-api](https://github.com/captainfact/captain-fact-api)
 - [civilcode/acme-ex](https://github.com/civilcode/acme-ex)
 - [ehealth-ua/ehealth.api](https://github.com/ehealth-ua/ehealth.api)
 - [elixirseattle/tanx](https://github.com/elixirseattle/tanx)
-- [etalab/transport-site](https://github.com/etalab/transport-site)
 - [eve-of-darkness/eve-of-darkness](https://github.com/eve-of-darkness/eve-of-darkness)
 - [fremantle-capital/tai](https://github.com/fremantle-capital/tai)
 - [joaquimadraz/opensubs.io](https://github.com/joaquimadraz/opensubs.io)
 - [loomnetwork/blockscout](https://github.com/loomnetwork/blockscout)
 - [mbta/api](https://github.com/mbta/api)
 - [oestrich/grapevine](https://github.com/oestrich/grapevine)
-- [omisego/elixir-omg](https://github.com/omisego/elixir-omg)
-- [omisego/ewallet](https://github.com/omisego/ewallet)
+- [omgnetwork/ewallet](https://github.com/omgnetwork/ewallet)
 - [poanetwork/blockscout](https://github.com/poanetwork/blockscout)
 - [richmorin/pa_all/tree/master/PA_elixir/server](https://github.com/richmorin/pa_all/tree/master/PA_elixir/server)
 - [ruby2elixir/emcasa-backend](https://github.com/ruby2elixir/emcasa-backend)
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo)
 - [simplabs/breethe-server](https://github.com/simplabs/breethe-server)
 - [statuspal/statuspal](https://github.com/statuspal/statuspal)
-- [wallaroolabs/wallaroo/tree/master/monitoring_hub](https://github.com/wallaroolabs/wallaroo/tree/master/monitoring_hub)
 <!-- /UMBRELLAS_LIST -->
 
 ### Navigation
