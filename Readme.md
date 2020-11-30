@@ -34,6 +34,8 @@ $ make umbrellas
 - [loomnetwork/blockscout](https://github.com/loomnetwork/blockscout)
 - [mbta/api](https://github.com/mbta/api)
 - [oestrich/grapevine](https://github.com/oestrich/grapevine)
+- [omgnetwork/elixir-omg](https://github.com/omgnetwork/elixir-omg)
+- [omgnetwork/elixir-omg/tree/master/priv/perf](https://github.com/omgnetwork/elixir-omg/tree/master/priv/perf)
 - [omgnetwork/ewallet](https://github.com/omgnetwork/ewallet)
 - [poanetwork/blockscout](https://github.com/poanetwork/blockscout)
 - [richmorin/pa_all/tree/master/PA_elixir/server](https://github.com/richmorin/pa_all/tree/master/PA_elixir/server)
