@@ -36,6 +36,7 @@ https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for 
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
 https://github.com/danhper/opencov [pipeline] Open source code coverage history webapp http://demo.opencov.com
+https://github.com/dbstratta/margaret [umbrella, graphql] 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
 https://github.com/derpibooru/philomena [] Next-generation imageboard https://derpibooru.org/
 https://github.com/digitalnatives/course_planner [quality:5, realworld] An application to manage educational courses
 https://github.com/djthread/lucidboard [liveview] A kanban tool
@@ -106,7 +107,6 @@ https://github.com/sergiotapia/magnetissimo [crawler] Web application that index
 https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/source-academy/cadet [realworld] Cadet is the web application powering Source Academy.
 https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you communicate your web apps/services status 📡 https://statuspal.io
-https://github.com/dbstratta/margaret [umbrella, graphql] 👩‍🚀 🚀 A publishing platform. An open-source alternative to Medium.
 https://github.com/straw-hat-labs/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
 https://github.com/thoughtbot/community  []  Community is an Elixir/Phoenix app that was designed primarily to run Raleigh Design. Feel free to fork it and use it for your own community!
 https://github.com/thoughtbot/constable [pjax] Better company announcements http://constable-demo.herokuapp.com
