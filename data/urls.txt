@@ -43,7 +43,6 @@ https://github.com/dreamingechoes/diversity-in-tech [] Phoenix application to ra
 https://github.com/dreamingechoes/retrospectivex [] Phoenix application to create retrospective boards.
 https://github.com/dwyl/bestevidence [] City, University of London BestEvidence app http://bestevidence.info/
 https://github.com/dwyl/phoenix-ecto-encryption-example [encryption, configuration] 🔐 A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types
-https://github.com/edance/openpace [api] 🍊🏃 Track Runs and Workouts with Strava
 https://github.com/EdgeCommander/edge-commander [realworld, testing:8] Device Management & Monitoring Application
 https://github.com/edgurgel/httparrot [] HTTP Request & Response Server. An incomplete clone of http://httpbin.org http://httparrot.herokuapp.com
 https://github.com/ehealth-ua/ehealth.api [api, realworld] Index page and integration layer for projects that related to Ukrainian Health Services government institution
