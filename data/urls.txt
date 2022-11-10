@@ -1,4 +1,5 @@
 # https://github.com/cambiatus/backend [] Cambiatus public GraphQL API
+# https://github.com/civilcode/acme-ex [example, umbrella, DDD] CivilCode's Elixir reference application and development guides
 ## https://git.pleroma.social/pleroma/pleroma [socialnetwork, realworld]
 ## https://github.com/cerclecrm/cercle [crm, realworld] Cercle is the ultimate CRM+Project Manager for your organization - Phoenix Framework & Vuejs http://get.cercle.co (gone)
 ## https://github.com/coderplanets/coderplanets_server [realworld, size:4 ] backend of coderplanets.com https://www.coderplanets.com
@@ -14,7 +15,6 @@
 https://github.com/access-company/antikythera [paas, faas, realworld] Elixir framework to build your own in-house PaaS
 https://github.com/acconrad/peergym [realworld] PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp. https://peergym.herokuapp.com/
 https://github.com/AlloyCI/alloy_ci [ci, realworld] Continuous Integration, Deployment, and Delivery coordinator, written in Elixir. https://alloy-ci.com
-https://github.com/almightycouch/gitgud [git] GitHub clone entirely written in Elixir.
 https://github.com/andersju/webbkoll [] An online tool that checks how a website is doing with regards to privacy.
 https://github.com/artemis-platform/artemis_teams [] Collaborative Team-Based Tools written in Elixir and Phoenix
 https://github.com/asciinema/asciinema-server [realworld] Web app for hosting asciicasts https://asciinema.org
@@ -34,7 +34,6 @@ https://github.com/BuddyGG/buddy_matching [] Somewhat generic player matching se
 https://github.com/cancoin/bitcoin-voyager [] Websocket and REST Server for querying Libbitcoin Server
 https://github.com/CaptainFact/captain-fact-api [umbrella, graphql, s3] 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io
 https://github.com/cesium/safira [api, heroku] 💎 safira platform (intra 2.0)
-https://github.com/civilcode/acme-ex [example, umbrella, DDD] CivilCode's Elixir reference application and development guides
 https://github.com/code-corps/code-corps-api [realworld] Elixir/Phoenix API for Code Corps. https://www.codecorps.org
 https://github.com/cruessler/lafamiglia [gameserver, game, eventloop] Browser-based strategic multiplayer game
 https://github.com/danbruder/whiteboard [quality:2] Multi-user real time whiteboard http://whiteboard.debassociates.com
@@ -78,6 +77,7 @@ https://github.com/kenforthewin/mentat [chat, security] scalable group chat with
 https://github.com/LittleKidogo/mula_spender [api] Some automated forms to aid in our spending
 https://github.com/Logflare/logflare [realtime, realworld] Tail -f your Cloudflare logs! https://logflare.app
 https://github.com/loomnetwork/blockscout [umbrella, blockchain] Fork for Loom Dappchains, it has additional compatiblity with Plasmachain and other Loom SDK based chains.
+https://github.com/mainmatter/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/maxim/cx_leaderboard [genservers] Elixir library for fast, customizable leaderboards https://hexdocs.pm/cx_leaderboard/CxL…
 https://github.com/mbta/api [realworld, umbrella] V3 MBTA API https://api-v3.mbta.com/ - Massachusetts Bay Transportation Authority API v3
 https://github.com/mgwidmann/slack_coder [github, slack, bot, graphql, api] Slack Bot for watching your Github & CI builds
@@ -96,6 +96,7 @@ https://github.com/pcorey/inject_detect [eventsourcing, cqrs]
 https://github.com/pedromtavares/moba [liveview] A turn-based browser RPG built with Phoenix LiveView
 https://github.com/plausible/analytics [realworld] Simple and privacy-friendly alternative to Google Analytics
 https://github.com/puemos/riso [] Riso - An open source developers recruiting tool
+https://github.com/redrabbit/git.limo [git] GitHub clone entirely written in Elixir.
 https://github.com/ResiliaDev/Planga [saas, realworld] Planga: Seamless Instant Chat Service https://planga.io
 https://github.com/RichMorin/PA_all [realworld, umbrella] Code and Data files for Pete's Alley
 https://github.com/rizafahmi/elixirjobs [realworld] Job portal for Alchemist http://jobs.elixirdose.com/
@@ -105,7 +106,6 @@ https://github.com/santiment/sanbase2 [realworld, bitcoin, graphql, reactjs] The
 https://github.com/sb8244/okr_app_pub [realworld] Public snapshot of OKR App, more info: https://stephenbussey.com/2019/05/10/useful-elixir-patterns-from-real-world-side-project.html
 https://github.com/sep/planet_ex [tailwindcss] 📚 Blog aggregator
 https://github.com/sergiotapia/magnetissimo [crawler] Web application that indexes all popular torrent sites, and saves it to the local database.
-https://github.com/simplabs/breethe-server [umbrella] Air Quality Data for Locations around the World https://breethe.app
 https://github.com/source-academy/backend [realworld] Cadet is the web application powering Source Academy.
 https://github.com/statuspal/statuspal [coherence, saas] Statuspal lets you communicate your web apps/services status 📡 https://statuspal.io
 https://github.com/straw-hat-labs/straw_hat_review [ecto] Review System https://hex.pm/packages/straw_hat_review
